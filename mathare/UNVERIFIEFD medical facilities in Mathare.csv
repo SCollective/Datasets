@@ -1,0 +1,121 @@
+WKT,osm_id,amenity,name,operational_status,medical_service:dental_services,medical_service:family_planning,medical_service:general_medical_services,medical_service:malaria,medical_service:outpatient,medical_service:pregnancy_test,medical_service:vct_hiv_counselling_test,opening_hours,operational_status:electricity,operator:type
+POINT (36.845147967994805 -1.266100187719756),1110239855,pharmacy,LIZ Rich medical,,,,,,,,,,,
+POINT (36.84406415060451 -1.265151708395259),1110239857,pharmacy,Be well chemists,,,,,,,,,,,
+POINT (36.845305173169521 -1.265268460911075),1110239846,pharmacy,East chem medical,,,,,,,,,,,
+POINT (36.844990942483136 -1.264973795512976),1110239850,pharmacy,Blessed Medical Clinic,,,,,,,,,,,
+POINT (36.844207881049975 -1.263884584022279),1101638771,hospital,Huduma Bora Medics Clinic,,,,,,,,,,,
+POINT (36.845654078825874 -1.265953528644154),1110239864,pharmacy,Beden pharmacy,,,,,,,,,,,
+POINT (36.845623446274686 -1.265807138989064),1110239842,pharmacy,Mlango kubwa health care centre,,,,,,,,,,,
+POINT (36.852264242012538 -1.26601693422226),5838100588,doctors,MSF (Doctors Without Borders) medical center - Lavander clinic,,,,,,,,,,,
+POINT (36.851335563671825 -1.265429489564655),4500146285,clinic,Rays of Hope Medical Clinic,operational,,yes,,,yes,yes,yes,08:00-21:00,always,private
+POINT (36.85339647859665 -1.266019808129436),2374989981,doctors,MSF,,,,,,,,,24/7,,
+POINT (36.852026457956832 -1.264497175732382),4500146286,clinic,Stahi Medical Clinic,operational,,yes,,yes,yes,yes,yes,,sometimes,private
+POINT (36.854558090090542 -1.265779477630002),2392593371,pharmacy,Mama africa clinic,operational,,yes,,,yes,yes,,06:00-21:30,always,private
+POINT (36.855666880645721 -1.265365096066342),1038193563,hospital,Fikiria Jamii Health Centre,,,,,,,,,,,
+POINT (36.855675773967043 -1.265330698980826),4502112947,pharmacy,Chaire Chemist,operational,,yes,,yes,yes,yes,,08:00-20:00,sometimes,private
+POINT (36.855482905675544 -1.265192032918633),4502112948,clinic,Ederp Mathare 3A,operational,,yes,,yes,yes,yes,yes,07:30-16:00,always,faith_based_organization
+POINT (36.855658166987467 -1.265289386553747),4502112949,pharmacy,Glory2 Chemist,operational,,yes,,yes,,yes,,09:00-21:00,always,private
+POINT (36.853970142737083 -1.264221460085411),1038193525,hospital,KENWA,,,,,,,,,,,
+POINT (36.854641004591265 -1.264176914492785),1038193543,hospital,mathare family Hope centre,,,,,,,,,,,
+POINT (36.8571556585661 -1.264482446949378),1038193546,hospital,UnduguMedical Clinic,,,,,,,,,,,
+POINT (36.858229594488265 -1.264519448526036),4502112946,pharmacy,Branmo Chemist,operational,,yes,,yes,,,,08:00-21:00,often,private
+POINT (36.859271280891733 -1.264191104419549),4502112970,clinic,Uzima2 clinic,operational,,yes,,yes,yes,,yes,08:30-20:30,sometimes,private
+POINT (36.84940059254982 -1.263186134098229),4502203218,clinic,Seme Medical Clinic,operational,yes,yes,yes,yes,yes,yes,yes,09:00-20:00,often,private
+POINT (36.849475871370636 -1.262833900440517),4502203219,pharmacy,St Clare Chemist and Lab Services,operational,,yes,yes,yes,yes,yes,yes,07:00-18:30,often,private
+POINT (36.850262705727992 -1.262538246859256),4502070185,pharmacy,Cess Pharmacy,operational,,yes,yes,no,yes,yes,yes,08:00-20:30,often,private
+POINT (36.851705489905818 -1.263249629553633),4502203205,pharmacy,Blessed Chemist Kosovo,operational,,yes,yes,yes,yes,yes,yes,06:00-21:30,often,private
+POINT (36.851828828594329 -1.262625721525008),4502070186,pharmacy,Ebenezer dispensary chemist,operational,yes,yes,yes,yes,yes,yes,,08:00-20:00,often,private
+POINT (36.853699300678919 -1.262812974778063),4502203216,pharmacy,Marisa Chemist,operational,,yes,yes,yes,yes,yes,no,06:00-21:30,often,private
+POINT (36.855345463437068 -1.262621949516897),4503852990,clinic,Dan's medical center,operational,yes,yes,yes,yes,yes,yes,yes,24/7,sometimes,private
+POINT (36.855293001824478 -1.26207851086219),2379875699,pharmacy,Mathare4Achemist,,,,,,,,,06:00-21:00,,
+POINT (36.85426452065569 -1.261485048060133),2379875680,pharmacy,Faith care clinic,operational,,,,,,,,06:00-21:30,always,private
+POINT (36.854404208682368 -1.261584018409714),2379875626,pharmacy,Afya stakaseas health centre,operational,,yes,,,yes,yes,,06:00-21:30,always,private
+POINT (36.855298481547713 -1.262037198383382),2379875645,pharmacy,Baraka chemist,operational,,yes,,,yes,yes,,06:00-21:00,always,private
+POINT (36.856815556399532 -1.263406886325458),1110227333,pharmacy,4B Dispensing,,,,,,,,,,,
+POINT (36.85683999057526 -1.263186762766107),4503959148,pharmacy,Pona 3 Dispensary,operational,,yes,yes,yes,yes,yes,yes,07:00-22:00,sometimes,private
+POINT (36.856842146531946 -1.263128206842654),2393684654,hospital,Motherwell clinic,operational,,yes,,,yes,yes,yes,06:00-21:00,always,private
+POINT (36.857892726256722 -1.263356862327695),4503896057,hospital,Johana Justin Jinnich(Shofco Mathre),operational,,yes,yes,yes,yes,yes,yes,Mo-Fr 08:00-16:30; Sa 09:00-15:00,never,ngo_national
+POINT (36.858391830228577 -1.263301719176424),2392593375,hospital,Upendo hospital,operational,,yes,,yes,yes,yes,yes,06:00-18:00,always,private
+POINT (36.859019303454531 -1.261948825600411),1038202666,hospital,Elra medical clinic,,,,,,,,,,,
+POINT (36.858962260433991 -1.254257687711619),2373149870,hospital,GEOJAN CHEMIST,operational,,yes,,yes,yes,yes,yes,08:00-20:00,always,private
+POINT (36.859990112782086 -1.263397097069239),1038103795,pharmacy,Uzima clinic,,,,,,,,,24/7,,
+POINT (36.860188370965282 -1.262770045736106),1038103805,pharmacy,Maisha clinic,,,,,,,,,24/7,,
+POINT (36.861567644252524 -1.263135930476796),1103092401,pharmacy,Boodad Communicatiion Lifeguard Chemist,operational,,yes,,yes,yes,yes,no,07:00-21:00,sometimes,private
+POINT (36.860106354779845 -1.261812224981815),1038202656,pharmacy,,,,,,,,,,,,
+POINT (36.860531168077706 -1.262015644046345),4504009847,clinic,Pona Medical Centre,operational,,yes,,yes,,yes,,08:00-21:00,sometimes,private
+POINT (36.861052101110971 -1.261427480005691),2378857096,hospital,Hope chemist,operational,,yes,,,yes,yes,,06:30-21:30,always,private
+POINT (36.861275961279773 -1.261930145174366),4504009846,clinic,Glorious Chemist and Clinic,operational,,yes,,yes,,yes,yes,08:00-20:00,sometimes,private
+POINT (36.862301478008121 -1.262990887808382),4503879843,clinic,AIC Zion Medical Clinic,operational,,yes,,yes,yes,yes,yes,07:00-22:00,always,faith_based_organization
+POINT (36.863116609296931 -1.262467207369793),1103092408,pharmacy,,,,,,,,,,,,
+POINT (36.862911164591452 -1.262164728207146),1103092490,pharmacy,,,,,,,,,,,,
+POINT (36.863542500573132 -1.262871440898911),4503879853,clinic,Villa Medical Centre,operational,,yes,,yes,yes,,yes,08:00-21:00,always,private
+POINT (36.862825824639465 -1.261353836002848),4504009845,pharmacy,Bethmed Chemist,operational,,yes,,yes,,yes,,08:00-21:00,often,private
+POINT (36.86318784569896 -1.261114942028022),4503972768,pharmacy,Baraka chemist,operational,yes,yes,,yes,,yes,,09:00-21:00,often,private
+POINT (36.860604021447251 -1.26003803286412),2392593353,hospital,Baraka hospital,operational,,yes,,,yes,no,yes,07:00-16:00,always,parastatal
+POINT (36.860652710135646 -1.259952803356599),2317088370,hospital,BARAKE HOSPITAL,,,,,,,,,,,
+POINT (36.860631150568828 -1.259941936369668),1038202677,hospital,Baraka medical center,,,,,,,,,,,
+POINT (36.860767784323549 -1.258562996189037),1038202811,doctors,Baraka german doctors/feeding programme,,,,,,,,,,,
+POINT (36.862589388056684 -1.25969163641843),2378857068,pharmacy,Faith chemist,operational,,,,,,,,06:00-21:30,always,private
+POINT (36.863936681319807 -1.260591889880289),4503972775,pharmacy,Vincent Chemist Mabatini,operational,,yes,,yes,,yes,,08:00-22:00,often,private
+POINT (36.864472616218308 -1.260364311869734),2378857095,pharmacy,Giant foundation heath service chemist,operational,no,yes,,,yes,yes,,06:00-21:30,always,private
+POINT (36.864409464653839 -1.26029749338141),1103092289,pharmacy,Giants Foundation,,,,,,,,,,,
+POINT (36.864508548829676 -1.259541294778467),1103092285,hospital,Ubora Herbal Clinic,,,,,,,,,,,
+POINT (36.86457664112821 -1.259559795602023),2378857107,pharmacy,Ubora harbal chemist,operational,,yes,,,yes,yes,,06:00-21:30,always,private
+POINT (36.86193846880181 -1.25845863713306),1038202692,pharmacy,Neigbourhood chemist,,,,,,,,,,,
+POINT (36.862128013326753 -1.258370354038537),1038202846,pharmacy,,,,,,,,,,,,
+POINT (36.864256391729427 -1.258971990246019),1103092230,hospital,Total Community Development Health Care,,,,,,,,,,,
+POINT (36.864366345520203 -1.259216362817312),1103092422,hospital,Partriot Medical Clinic,,,,,,,,,,,
+POINT (36.864204019948353 -1.258819133888805),1103092366,hospital,Grace Medical Clinic,,,,,,,,,,,
+POINT (36.864316489021931 -1.25884212520985),2378857097,nursing_home,Nursing home hospital,operational,,yes,,yes,yes,yes,yes,06:00-23:00,always,private
+POINT (36.864503787758665 -1.258960045536887),2378857098,pharmacy,Patriot chemist,operational,,yes,,,yes,yes,,06:00-21:30,always,private
+POINT (36.864463183907823 -1.258889454999028),1124602228,pharmacy,Late night chemist,,,,,,,,,,,
+POINT (36.865905788422594 -1.261478940996684),1124602251,hospital,Lions health clinic mathare valley,,,,,,,,,,,
+POINT (36.86684560587284 -1.260951578052918),2374943965,clinic,Huruma Lions Health Center,,,,,,,,,,,
+POINT (36.866844797389085 -1.260923647212824),1101737232,hospital,Lions Clinic,,,,,,,,,,,
+POINT (36.864684169467722 -1.260197804504514),2378857100,pharmacy,Pharm care chemist,operational,,yes,,,yes,yes,,06:00-21:30,always,private
+POINT (36.864652189443611 -1.260131075821721),1103092191,pharmacy,,,,,,,,,,,,
+POINT (36.865666297567849 -1.260478549926459),2385083681,pharmacy,Rocks medical clinic,operational,yes,yes,,yes,,no,yes,Mo-Fr 08:30-20:00,always,private
+POINT (36.864723964834809 -1.259938433787107),1103092466,pharmacy,Kim's Pharmacy,,,,,,,,,,,
+POINT (36.86476735346303 -1.259937805118427),2378857067,pharmacy,Benakim chemist,operational,,yes,,,yes,yes,,06:00-21:30,always,private
+POINT (36.864781726507573 -1.259413854636014),1124602212,hospital,Setlight provided NGO,,,,,,,,,,,
+POINT (36.867003529699787 -1.260432118264067),2385083682,pharmacy,Urifold clinic,operational,yes,yes,,yes,,yes,yes,Mo-Fr 08:30-20:00,always,private
+POINT (36.867227210205535 -1.260067490480407),1123193329,hospital,The Villa Medical Clinic,,,,,,,,,,,
+POINT (36.867040719952548 -1.25939894620457),1101737177,hospital,Tunza Clinic,,,,,,,,,,,
+POINT (36.864780828192288 -1.25877261238699),2385083676,pharmacy,Cordial medical clinic,operational,yes,yes,,yes,,yes,yes,Mo-Fr 08:30-20:00,always,private
+POINT (36.864718125785458 -1.258602512525845),1124602252,hospital,Mwangaza provide dental clinic,,,,,,,,,,,
+POINT (36.865629376809665 -1.258505338260173),1124602264,hospital,Sad health clinic,,,,,,,,,,,
+POINT (36.866964722479516 -1.259099610029762),1123193407,hospital,Wakibe Medical Clinic,,,,,,,,,,,
+POINT (36.867554466463538 -1.259691007749712),1123193294,hospital,Precise hospital,,,,,,,,,,,
+POINT (36.868826211411267 -1.259829314866068),1123193430,hospital,Bonfaith medical centre,,,,,,,,,,,
+POINT (36.860950860978441 -1.25594351077352),2373149871,hospital,SINAI CHEMIST,operational,yes,,,yes,yes,,yes,08:00-20:00,always,private
+POINT (36.859167884802524 -1.254861929355949),2389187318,hospital,ST.FRANCIS HEALTH SERVICE;ST.FRANCIS HEALTH SERVICES,operational,yes,yes,yes,,yes,yes,yes,24/7,always,private
+POINT (36.859139408208023 -1.253931318132853),2387236685,hospital,Imani medical clinic,operational,yes,yes,,yes,yes,yes,yes,24/7,always,private
+POINT (36.866305448892497 -1.255462309032266),2378918199,hospital,ST.PATRICK MEDICAL CLINIC,operational,,yes,,yes,yes,yes,,24/7,always,private
+POINT (36.868067224827719 -1.257762520810235),1123193344,hospital,Pat Dos Medical Clinic,,,,,,,,,,,
+POINT (36.869115199438163 -1.257631128945724),2378763929,pharmacy,TRANSMAX HEALTHCARE,operational,yes,yes,,yes,yes,yes,,Mo-Fr 08:30-20:00,always,private
+POINT (36.868941195767633 -1.257588559057931),2378763923,pharmacy,HYPX MEDICARE/CHEMIST,operational,yes,yes,,yes,,yes,yes,Mo-Fr 08:30-20:00,always,private
+POINT (36.869002011712368 -1.257518058292856),1123201133,pharmacy,Transmax chemist,,,,,,,,,,,
+POINT (36.869108641736595 -1.257500724983444),1123201086,pharmacy,Amani Chemist,,,,,,,,,,,
+POINT (36.869145472663241 -1.257478811369308),1101737215,hospital,Mundika Nursing Clinic,,,,,,,,,,,
+POINT (36.869266385900488 -1.257531799206453),2378763919,pharmacy,Deslan chemist,operational,no,yes,,yes,,yes,yes,Mo-Fr 08:30-20:00,always,private
+POINT (36.866620218568059 -1.255084837727557),2378918234,pharmacy,STJAMES MEDICAL CENTER,operational,yes,yes,,yes,yes,yes,,08:00-21:00,always,private
+POINT (36.867484667365964 -1.252282136284836),2378917149,hospital,DRUGHILLCHEMIST,operational,yes,yes,,yes,yes,yes,,24/7,always,private
+POINT (36.869638378259637 -1.25228761469926),1111586848,pharmacy,Drug Port,,,,,,,,,,,
+POINT (36.872128148901105 -1.258015605052819),1123201098,hospital,Urban rural initiative overal dev.health providers,,,,,,,,,,,
+POINT (36.874785904500698 -1.259933763676993),1038195573,hospital,NCCK Huruma Clinic,,,,,,,,,,,
+POINT (36.875385799447436 -1.258178250733018),1038195572,hospital,Huruma Nursing Home,,,,,,,,,,,
+POINT (36.877891649932494 -1.259372721734568),1038195561,hospital,Charity Medical Clinic,,,,,,,,,,,
+POINT (36.87562106822034 -1.258308834281184),2389266140,hospital,Huruma narsing home,operational,,,,,,,,24/7,always,private
+POINT (36.872168483257362 -1.257535661031826),1123201102,hospital,Huruma Ngei Outpatient center,,,,,,,,,,,
+POINT (36.873950291623416 -1.257679446665643),1101737176,hospital,Fikiria Jamii Clinic,,,,,,,,,,,
+POINT (36.874456851612123 -1.2575069218661),1111566368,pharmacy,Dispensing Chemist,,,,,,,,,,,
+POINT (36.87559438825641 -1.256868732685495),1111566296,pharmacy,Life Care Chemist,,,,,,,,,,,
+POINT (36.874173882297626 -1.255646329641423),1111566423,hospital,St. Kelly Medical Clinic/ Lab,,,,,,,,,,,
+POINT (36.870257676816507 -1.253447780960613),1038219168,pharmacy,Nuffield Medical Service Providers,,,,,,,,,24/7,,
+POINT (36.871188241619329 -1.252528754733178),2386024433,hospital,jagin hospital clinic,operational,,yes,,yes,yes,yes,,08:00-20:30,always,private
+POINT (36.873410224474597 -1.255185784139388),2388299297,pharmacy,Drugpot dispensing chemist,operational,yes,yes,yes,,,yes,,08:00-20:30,always,private
+POINT (36.874558810396877 -1.254267207572134),2388299294,pharmacy,Deli pharmacy,operational,yes,yes,,,,yes,,08:00-20:30,always,private
+POINT (36.876014979472437 -1.255528858214527),1111566426,pharmacy,MEDINA CHEMIST,,,,,,,,,,,
+POINT (36.876340888257516 -1.254286247293088),1123209250,pharmacy,Dawaline Pharmacy,,,,,,,,,Mo-Fr 08:30-20:00,,
+POINT (36.877603919546985 -1.254754157372553),1038172414,hospital,Afya Health Services,,,,,,,,,,,
+POINT (36.875611546078332 -1.25140109932248),1038219155,pharmacy,Baraka medical centre,,,,,,,,,24/7,,

@@ -1,0 +1,363 @@
+WKT,osm_id,access,amenity,name,operator,operational_status,watsan:availability,watsan:cost,watsan:location,watsan:type,watsan:water_private,watsan:water_public,opening_hours,operator:type
+POINT (36.84474112100262 -1.266449008169969),1110239836,,drinking_water,,,,,,,,,,,
+POINT (36.843436497715494 -1.265115245685388),1110239840,,drinking_water,Waterpoint,,,,,,,,,,
+POINT (36.844868771604496 -1.265745709217237),1110239845,,drinking_water,Water Point,,,,,,,,,,
+POINT (36.843324118473454 -1.264596145967247),1110239844,,drinking_water,Waterpoint,,,,,,,,,,
+POINT (36.843262583876495 -1.26420843768442),1110239865,,drinking_water,Water point,,,,,,,,,,
+POINT (36.843807052770195 -1.263998013637333),1110239848,,drinking_water,Waterpoint,,,,,,,,,,
+POINT (36.844318194166867 -1.263855844926628),1101638941,,drinking_water,,,,,,,,,,,
+POINT (36.849629752778803 -1.265241607832901),1204168038,,drinking_water,Watony,,operational,,3 ksh per 20 ltr,plot,piped_tap,yes,,24/7,private
+POINT (36.84923296691781 -1.26403294959853),4502203217,,drinking_water,Mucii Brixton,,operational,often,Ksh. 2 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.849237188999645 -1.263929578668273),4502203215,,drinking_water,Mama Njeri,,operational,often,Ksh. 2 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.849229014330561 -1.263863209319917),4502203203,,drinking_water,Bethsaida,,operational,often,ksh. 2 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.849274109757822 -1.263904162531016),4502203214,,drinking_water,Mama Njeri,,operational,often,Ksh. 2 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.84922892449903 -1.263776902221629),4502203206,,drinking_water,Jehu Melchizedek,,operational,often,ksh. 2 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.849423409758039 -1.263693199601187),4502203210,,drinking_water,Kwa Shosho,,operational,often,Ksh. 2 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.849295399830048 -1.263557137932379),4502203209,,drinking_water,Kwa Murata,,operational,often,Ksh. 2 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.849720123296386 -1.263687182352621),4502203207,,drinking_water,Kwa Maggy,,operational,often,Ksh. 2 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.850068130637453 -1.263582015214923),4502203208,,drinking_water,Kwa Mama Wambo,,operational,often,Ksh. 2 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.850058967821553 -1.263546540389547),4502203204,,drinking_water,Bidii Youth Group,,operational,often,ksh. 2 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.850750401095745 -1.263751755511906),1100019091,,drinking_water,maji ya mzee,,operational,,3 ksh per 20ltr,public_community,piped_tap,yes,,24/7,private
+POINT (36.852302510243646 -1.265823035289432),1038193569,,drinking_water,N.W.S.C Water Point,,non_operationa,,,,piped_tap,,yes,,other
+POINT (36.852494390388337 -1.26492529830923),4494090548,yes,drinking_water,,CHE Mathare,,always,,,water_tank,,,,
+POINT (36.853558624505425 -1.264951522723228),4494090549,yes,drinking_water,,Kwa kanyos,,often,,,water_tank,,,,
+POINT (36.851365118244665 -1.2645479181854),1215759486,yes,drinking_water,,,operational,often,3ksh / 20ltr,,piped_tap,yes,,06:00-20:00,private
+POINT (36.851047114634085 -1.264390661482657),1204168041,,drinking_water,MTM Njeri,,operational,,3 ksh per 20 ltr,public_community,piped_tap,,yes,24/7,private
+POINT (36.851360716499777 -1.264293487433135),1215759451,,drinking_water,,,operational,,3ksh / 20ltr,,piped_tap,yes,,06:00-22:00,private
+POINT (36.851617904165614 -1.264542799035314),4494090545,yes,drinking_water,,,,always,,,piped_tap,,,,
+POINT (36.851978577752192 -1.264448409090758),4494090544,yes,drinking_water,,Empire,,always,,,piped_tap,,,,
+POINT (36.851568227330404 -1.263794774347321),4502070795,,drinking_water,River Side Youth Group,,operational,often,,public_community,piped_tap,,yes,,
+POINT (36.851589068244991 -1.263481607986407),4502203211,,drinking_water,Mama Adesh,,operational,often,Ksh. 2 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.852030680038666 -1.263590547134876),4502070789,,drinking_water,Kwa Wa Keiro,,operational,often,Ksh. 2 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.852518016080303 -1.264640511933379),4494090547,yes,drinking_water,,Heshima youth group,,always,,,piped_tap,,,,
+POINT (36.852934295382966 -1.264350696185467),4494090543,yes,drinking_water,,New Juja Road,,often,,,piped_tap,,,,
+POINT (36.853423967044343 -1.264316748134782),4494122926,yes,drinking_water,,1996 Vietnam Family,,often,,,water_tank,,,,
+POINT (36.852661746525762 -1.263675147855425),4502070188,,drinking_water,Kwa Kisii,,operational,often,,public_community,water_tank,,yes,,
+POINT (36.857152514462612 -1.266243344212988),1207178837,,drinking_water,NWC,,operational,,free,public_community,piped_tap,,yes,05:00-23:00,private
+POINT (36.853699749836558 -1.265758102943263),1207178821,,drinking_water,NWC,,operational,,ksh. 2 per 20 Litres,public_community,piped_tap,,yes,07:00-12:00,private
+POINT (36.854972842257219 -1.265771035526865),4494122928,yes,drinking_water,,Kambi Safi,,often,,,water_tank,,,,
+POINT (36.853672261388866 -1.264981249712738),4494090550,yes,drinking_water,,Kwa Gitau,,always,,,piped_tap,,,,
+POINT (36.85501739869531 -1.265838123303264),4452996074,,drinking_water,,,,,,,,,,,
+POINT (36.855053690632793 -1.265774358482358),1038193552,yes,drinking_water,NWC,N.W.S.C,operational,often,2ksh/20litres,public_community,water_tank,,yes,06:00-21:00,private
+POINT (36.85515097817806 -1.26582923215228),4452996085,,drinking_water,,,,,,,,,,,
+POINT (36.856276207902944 -1.265839021399314),4452996088,,drinking_water,,,,,,,,,,,
+POINT (36.856215571621263 -1.26581180908862),1038193537,yes,drinking_water,NWSC Water Point A,N.W.S.C,,often,,,water_tank,,,,
+POINT (36.855052792317508 -1.265450145777157),4494122927,yes,drinking_water,,Kwa Masaai,,often,,,piped_tap,,,,
+POINT (36.854929094302882 -1.264332734253951),4452996076,yes,drinking_water,,Mama Biko,,often,,,piped_tap,,,,
+POINT (36.85497185411041 -1.26436470649197),4502112975,,drinking_water,,,,never,,,piped_tap,,,,
+POINT (36.854935202846818 -1.264169639910052),4452996086,,drinking_water,,,,,,,,,,,
+POINT (36.855444996770551 -1.264775944877911),4502112977,,drinking_water,,,,never,,,piped_tap,,,,
+POINT (36.85562582763724 -1.264335877591982),4453013958,,drinking_water,,,,,,,,,,,
+POINT (36.855530426554068 -1.264184727933489),4502112969,,drinking_water,Twaweza Group,,operational,always,Ksh. 2 per 20 Litres,,water_tank,,,,
+POINT (36.855976170598055 -1.264325998529596),4453013959,yes,drinking_water,,Kinati,,often,,,water_tank,,,,
+POINT (36.855892088287462 -1.264272921021088),4502112952,,drinking_water,Kungengane Self Help Group,,,often,Ksh.5 per 20 Litres,,water_tank,,,,
+POINT (36.856354271501139 -1.264443918608066),4453020206,yes,drinking_water,,Titi la Mama,,often,,,piped_tap,,,,
+POINT (36.856226800562325 -1.263581027308393),4502126574,,drinking_water,Okal,,operational,,ksh. 2 per 20 Litres,,piped_tap,yes,,"05:00-06:00,19:00-22:00",
+POINT (36.856285460550374 -1.263561987655337),4503854289,,drinking_water,Kwa John,,operational,,Ksh. 2 per 20 Litres,,piped_tap,yes,,"05:00-06:00,19:00-22:00",
+POINT (36.857590083837501 -1.265682932299783),1038103791,no,drinking_water,Agip,,,never,,,water_tank,,,,
+POINT (36.856508422403891 -1.265423292700866),4502112958,,drinking_water,Muungano Women Group,,operational,often,ksh. 2 per 20 Litres,,water_tank,,,,
+POINT (36.856600948878153 -1.265383956086936),4502112978,,drinking_water,,,,never,,,piped_tap,,,,
+POINT (36.856501685039255 -1.26497280760698),4502112951,,drinking_water,John Wanjohi,,operational,often,Ksh.2 per 20 Litres,,piped_tap,,,,
+POINT (36.856592325051423 -1.265063694956788),4453033654,yes,drinking_water,,Visionary Youth Group,,often,,,water_tank,,,,
+POINT (36.856617657542444 -1.264925118689961),4502112971,,drinking_water,Visionary Youth Group,,operational,often,Ksh.2 per 20 litre,,water_tank,,,,
+POINT (36.857457672164621 -1.264820580269898),1038103780,,drinking_water,Kwa hamisi,,,,,,water_tank,,,,
+POINT (36.857508965967341 -1.264825789229078),4502112966,,drinking_water,Single Mothers,,operational,always,Ksh. 2 per 20 Litres,,water_tank,,,,
+POINT (36.858285918856573 -1.265828244246602),1207163947,,drinking_water,Nairobi water company,,operational,,,,piped_tap,,yes,24/7,ngo_cbo
+POINT (36.856391910911533 -1.264640691552672),4453021699,yes,drinking_water,,Manoki,,always,,,water_tank,,,,
+POINT (36.856434580887537 -1.264623627719636),4502112963,,drinking_water,Pamoja Trust Muungano Bondeni,,operational,often,ksh. 2 per 20 Litres,,water_tank,,,,
+POINT (36.856963688589886 -1.264477148179858),4502112950,,drinking_water,Jacob Mwangi,,operational,often,Ksh.2 per 20 Litres,,piped_tap,,,,
+POINT (36.856692577037137 -1.264290344095066),4502112953,,drinking_water,Kwa Francis,,operational,always,Ksh. 2 per 20 Litres,,piped_tap,,,,
+POINT (36.856972941237309 -1.26380689865361),4503896064,,drinking_water,Kwa Osele,,operational,often,,public_community,piped_tap,,yes,,
+POINT (36.856976983656089 -1.263806808843944),4503896059,,drinking_water,Kwa Benta,,operational,often,Ksh. 2 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.856832714221461 -1.263723914511579),4503896069,,drinking_water,Mcedo Community Toilet,,operational,often,,public_community,piped_tap,,yes,,
+POINT (36.856881402909863 -1.263624674814408),1038064479,,drinking_water,,,,,,,,,,,
+POINT (36.856921288108467 -1.263500917069122),4503959141,,drinking_water,Kwa Dorothy,,operational,often,Ksh. 2 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.856917964341925 -1.263432751516033),4503959149,,drinking_water,Young Women Self Help Group,,operational,often,Ksh. 2 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.857319421442398 -1.264002324501456),4503896067,,drinking_water,Kwa Wanjiko,,,never,,public_community,piped_tap,,yes,,
+POINT (36.857465846833705 -1.263675507094153),4503896061,,drinking_water,Kwa Eunice,,operational,often,,public_community,piped_tap,,yes,,
+POINT (36.857744144908729 -1.263639942460371),4503896062,,drinking_water,Kwa John Wanyama,,operational,often,Ksh. 2 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.857880958326497 -1.264584021664635),1207163991,,drinking_water,Shop,,operational,always,Ksh. 2 per 20 Litres,,piped_tap,yes,,06:30-22:00,private
+POINT (36.857896948338549 -1.264530944161394),4502112961,,drinking_water,Nancy,,operational,always,Ksh. 2 per 20 Litres,,piped_tap,,,,
+POINT (36.858303525836149 -1.264785015651802),1207164001,,drinking_water,Muoroto,,operational,,2,,piped_tap,,yes,05:00-23:00,ngo_national
+POINT (36.858223575775867 -1.264395151965449),4502112976,,drinking_water,,,,never,,,piped_tap,,,,
+POINT (36.858266964404081 -1.264369915452066),4502112960,,drinking_water,Nairobi Water and Sewerage Company,,,never,,,water_tank,,,,
+POINT (36.858237679325825 -1.264282530654693),4502112968,,drinking_water,The Chams Youth Group,,operational,always,Ksh. 2 per 20 Litres,,piped_tap,,,,
+POINT (36.858253759169408 -1.264168921432737),1038103796,yes,drinking_water,Daraja Mbili Water Point,,,often,,,piped_tap,,,,
+POINT (36.858450490216626 -1.264506156697587),4453029326,yes,drinking_water,,,,,,,piped_tap,,,,
+POINT (36.858517324873766 -1.264471759600671),4502112955,,drinking_water,Kwa Melly,,operational,always,Ksh. 2 per 20 Litres,,piped_tap,,,,
+POINT (36.858657282395029 -1.264516305188234),1207164007,,drinking_water,,,operational,,,,piped_tap,yes,,24/7,private
+POINT (36.858681806402288 -1.264513341469738),4453029325,yes,drinking_water,,,,,,,piped_tap,,,,
+POINT (36.858701749001597 -1.264375124412136),4452980656,yes,drinking_water,,,,,,,piped_tap,,,,
+POINT (36.858986155620549 -1.264447510994225),4453029324,yes,drinking_water,,,,,,,piped_tap,,,,
+POINT (36.858312598820518 -1.263880722206322),4503896066,,drinking_water,Kwa Philip,,,never,,public_community,piped_tap,,yes,,
+POINT (36.858150812237845 -1.263449545927819),4503896060,,drinking_water,Kwa Bonface Ochieng,,operational,often,Ksh. 2 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.85928358781112 -1.264362012202256),1207164003,,drinking_water,Mau Mau,,operational,,ksh. 2 per 20 Litres,,piped_tap,yes,,06:00-21:00,private
+POINT (36.859427947077279 -1.264350696185467),4502112957,,drinking_water,Maji Mazuri,,,often,Ksh. 2 per 20 Litres,,water_tank,,,,
+POINT (36.859193756282714 -1.264153833409223),4502112974,,drinking_water,,,operational,always,Ksh. 2 per 20 Litres,,piped_tap,,,,
+POINT (36.85920588353904 -1.264143505297832),4502112959,,drinking_water,Nairobi Water and Sewerage Company,,,never,ksh. 2 per 20 Litres,,piped_tap,,,,
+POINT (36.859638242685293 -1.264355725526282),1207163998,,drinking_water,,,operational,,Ksh. 5 per 20 Litres,,piped_tap,yes,,06:00-19:30,private
+POINT (36.859655849664861 -1.264308216217221),4502112965,,drinking_water,Shantit Town Youth Group,,operational,never,Ksh. 2 per 20 Litres,,water_tank,,,,
+POINT (36.85979679533294 -1.264362461250548),4452977090,yes,drinking_water,Car Wash Junction,,,,,,piped_tap,,,,
+POINT (36.85986300116938 -1.264250109367351),4502162898,,drinking_water,,,operational,often,Ksh. 2 per 20 Litres,,water_tank,,,,
+POINT (36.859283228485012 -1.264066538414252),4502112954,,drinking_water,Kwa Karis,,,never,,,water_tank,,,,
+POINT (36.859433247137453 -1.263834200795013),1207163963,,drinking_water,Sokomoko,,operational,,2,,piped_tap,yes,,08:00-19:00,private
+POINT (36.859896598161001 -1.264020555864273),1207074873,,drinking_water,Outreach school occ primary school,,operational,,,,water_tank,yes,,07:00-18:00,private
+POINT (36.860325274214588 -1.263920777320416),1207074898,,drinking_water,Outreach Community church,,operational,,,,piped_tap,yes,,06:00-18:00,private
+POINT (36.860408009052257 -1.263430775702859),4502162895,,drinking_water,Wa Mama Na Rafuok,,operational,always,Ksh. 2 per 20 Litres,,water_tank,,,,
+POINT (36.860586863625315 -1.263954815185945),4502162891,,drinking_water,Kwa Jacob,,,always,Ksh. 3 per 20 Litres,,piped_tap,,,,
+POINT (36.860541858029592 -1.263801599882729),4502162893,,drinking_water,Manygro,,operational,always,Ksh. 2 per 20 Litres,,water_tank,,,,
+POINT (36.860895345093894 -1.263771603450671),1205523385,yes,drinking_water,Fredrick Water Project,Manygro Water Project,operational,always,2 shillings,plot,water_tank,yes,,06:00-21:00,private
+POINT (36.849375888879507 -1.263241636490734),4502203213,,drinking_water,Mama Franco(Githushi Shop),,operational,often,Ksh. 2 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.849492580034919 -1.263092911630491),4502203212,,drinking_water,Mama Delvin,,operational,often,ksh. 2 per 20 Litres,public_community,piped_tap,no,yes,,
+POINT (36.850784716739597 -1.263290942013179),4502070790,,drinking_water,Mama Shiro,,operational,often,ksh. 2 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.850803222034443 -1.263163681673742),4502070797,,drinking_water,Washiro,,operational,often,ksh. 2 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.850818942551918 -1.263169698923517),4502070796,,drinking_water,Wanjeri Bismillahi Shop,,operational,often,ksh.2 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.849543245016939 -1.262676014966005),4502070791,,drinking_water,Muungano Wa Wanavijiji(Kosovo),,operational,often,ksh. 2 per 2 Litres,public_community,water_tank,,yes,,
+POINT (36.849572350432148 -1.262647724905567),1110245202,,drinking_water,,,,,,,,,,,
+POINT (36.850818942551918 -1.26259788051262),4502070793,,drinking_water,Pamoja Trust,,,never,,public_community,water_tank,,yes,,
+POINT (36.852211690568417 -1.262843330460019),4502070794,,drinking_water,River Jump Youth Group,,operational,often,ksh. 2 per 20 Litres,public_community,water_tank,,yes,,
+POINT (36.851729564755431 -1.262666315516742),4502070792,,drinking_water,Nairobi Water Company,,operational,often,ksh. 2 per 20 Litres,public_community,water_tank,,yes,,
+POINT (36.852759303565612 -1.263424848263386),4502070187,,drinking_water,Kwa Easther,,operational,often,ksh.2 per 20litre,public_community,water_tank,,yes,,
+POINT (36.853730741713861 -1.263417214439775),4501970697,,drinking_water,Kwa Kisii,,operational,often,,public_community,water_tank,,yes,,
+POINT (36.854524582930445 -1.263399252501797),4501970698,,drinking_water,Kwa Ndung'u,,operational,often,ksh. 2 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.854609024567146 -1.263417663488233),4501970699,,drinking_water,Mama Shiro,,operational,often,ksh. 2 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.854692657720101 -1.263379314750503),4501970696,,drinking_water,Kwa Kamau,,operational,often,ksh. 2 per 20 Litres,public_community,water_tank,,yes,,
+POINT (36.855526384135295 -1.26276052590662),4503852992,,drinking_water,Kwa Nancy,,operational,,Ksh. 2 per 20 Litres,,piped_tap,,yes,"05:00-06:00,19:00-22:00",
+POINT (36.856158798095308 -1.263408862138633),4503853089,,drinking_water,Carol,,operational,,Ksh. 2 per 20 Litres,,,,,05:00-06:00;19:00-22:00,
+POINT (36.856083878600614 -1.263319591305373),4503813195,,drinking_water,Kwa Mama Lorna,,operational,,ksh 2 per 20litres,,piped_tap,,yes,"05:00-06:00,19:00-22:00",
+POINT (36.855818875591801 -1.263036690757184),4503836190,,drinking_water,Kwa Mama Christine,,operational,,Ksh. 2 per 20 Litres,,piped_tap,,yes,"05:00-06:00,19:00-22:00",
+POINT (36.856169757541771 -1.262816836595611),4503852989,,drinking_water,Anaweza Education Centre,,operational,,Ksh. 2 per 20 Litres,school,piped_tap,,yes,"05:00-06:00,19:00-22:00",
+POINT (36.85626174502687 -1.262856801916387),4502126572,,drinking_water,Odhis,,operational,,Ksh. 2 per 20 Litres,,other,yes,,"05:00-06:00,19:00-22:00",
+POINT (36.855286084796788 -1.262470440519806),4502126567,,drinking_water,Jack,,operational,,Ksh. 2 per 20 Litres,,piped_tap,yes,,"05:00-06:00,19:00-22:00",
+POINT (36.855519017949959 -1.262663621225285),4502126569,,drinking_water,Jack,,operational,,Ksh. 2 per 20 Litres,,piped_tap,yes,,"05:00-06:00,19:00-22:00",
+POINT (36.855385079141101 -1.262526930834516),4502126568,,drinking_water,Jack,,operational,,ksh. 2 per 20 Litres,,piped_tap,yes,,"05:00-06:00,19:00-22:00",
+POINT (36.855167956336928 -1.262364554855074),4502126564,,drinking_water,Ben,,operational,,,,piped_tap,yes,no,"05:00-06:00,19:00-22:00",
+POINT (36.855066356878297 -1.262297736418096),4502126579,,drinking_water,,,non_operationa,,,,piped_tap,,yes,"05:00-06:00,19:00-22:00",
+POINT (36.855057643220036 -1.262262980053039),4502126578,,drinking_water,,,non_operationa,,,public_community,water_tank,,yes,"05:00-06:00,19:00-22:00",
+POINT (36.855543002968041 -1.262235318656205),4503852991,,drinking_water,George,,operational,,Ksh. 2 per 20 Litres,,piped_tap,yes,,"05:00-06:00,19:00-22:00",
+POINT (36.855946526193677 -1.26262419475982),4503854192,,drinking_water,,,operational,,Ksh. 2 per 20 Litres,,,,yes,"05:00-06:00,19:00-22:00",
+POINT (36.856121607842553 -1.262462986312843),4502126573,,drinking_water,Okal,,operational,,ksh. 2 per 20 Litres,,piped_tap,yes,,"05:00-06:00,19:00-22:00",
+POINT (36.855842770778359 -1.262227415399919),4503746692,,drinking_water,Bonny,,operational,,Ksh. 2 per 20 Litres,,piped_tap,yes,,"05:00-06:00,19:00-22:00",
+POINT (36.854892353207767 -1.261608087423367),4503854189,,drinking_water,Samson,,operational,,Ksh. 2 per 20 Litres,,piped_tap,,yes,"05:00-06:00,19:00-22:00",
+POINT (36.854840250921285 -1.261405117375782),4503816692,,drinking_water,Karanja,,operational,,Ksh. 2 per 20 Litres,,piped_tap,,yes,"05:00-06:00,19:00-22:00",
+POINT (36.854018202604784 -1.261239238745474),4503854190,,drinking_water,,,operational,,Ksh. 2 per 20 Litres,,piped_tap,,yes,"05:00-06:00,19:00-22:00",
+POINT (36.854168041594178 -1.261053601955012),4503852993,,drinking_water,Kwa Duka,,operational,,Ksh. 2 per 20 Litres,,piped_tap,,yes,"05:00-06:00,19:00-22:00",
+POINT (36.85365618154529 -1.260881706047233),4503854089,,drinking_water,Nairobi Water Company,,operational,,Ksh. 2 per 20 Litres,,water_tank,,yes,"05:00-06:00,19:00-22:00",
+POINT (36.854256795144245 -1.261014714323791),4503836191,,drinking_water,,,operational,,Ksh. 2 per 20 Litres,,piped_tap,,yes,"05:00-06:00,19:00-22:00",
+POINT (36.854704874807965 -1.261199812258419),4503853090,,drinking_water,,,operational,,ksh. 2 per 20 Litres,,piped_tap,,yes,"05:00-06:00,19:00-22:00",
+POINT (36.854336206215358 -1.260969629817573),4503852994,,drinking_water,,,operational,,Ksh. 2 per 20 Litres,,piped_tap,,yes,"05:00-06:00,19:00-22:00",
+POINT (36.855110194664157 -1.261819589380893),4503854191,,drinking_water,,,operational,,Ksh. 3 per 20 Litres,,piped_tap,,yes,"05:00-06:00,19:00-22:00",private
+POINT (36.855516143341056 -1.261916583903446),4502126576,,drinking_water,Kisii,,operational,,ksh. 2 per 20 Litres,,piped_tap,yes,,"05:00-06:00,19:00-22:00",
+POINT (36.85569427926189 -1.261489987596726),1038202639,,drinking_water,,,,,none,,piped_tap,yes,,24/7,private
+POINT (36.855765246169341 -1.261469241542968),1205477311,,drinking_water,Mandera,,operational,,free,public_community,piped_tap,,yes,24/7,other
+POINT (36.855787793882968 -1.261533455518333),1204137050,,drinking_water,,,,,2ksh per20litres,,piped_tap,yes,no,06:00-23:00,private
+POINT (36.855559262474692 -1.261352129617387),1204137111,,drinking_water,Mandera 4A,,operational,,none,,water_tank,,yes,,cdf
+POINT (36.856603015003309 -1.263126231029263),4502126570,,drinking_water,Jalego,,operational,,Ksh. 2 per 20 Litres,,piped_tap,yes,,"05:00-06:00,19:00-22:00",
+POINT (36.856886972464622 -1.263207688425547),4503959140,,drinking_water,Imara Self Help Group,,,never,,public_community,water_tank,,yes,,
+POINT (36.856939973066389 -1.263116801010792),4503959143,,drinking_water,Kwa Jackline,,operational,often,Ksh. 2 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.856697877097311 -1.26307791341041),4503959139,,drinking_water,Amani,,operational,often,ksh 2 per 20litres,public_community,piped_tap,,yes,,
+POINT (36.856570046832381 -1.262887696456098),4502126575,,drinking_water,Festo,,operational,,ksh. 2 per 20 Litres,,piped_tap,yes,,"05:00-06:00,19:00-22:00",
+POINT (36.856757525232183 -1.263066058529811),1038064488,,drinking_water,,,non_operational,,ksh. 2 per 20 Litres,,piped_tap,,yes,"05:00-06:00,19:00-22:00",
+POINT (36.856926947494763 -1.262808125053692),4502126582,,drinking_water,,,operational,,ksh. 2 per 20 Litres,,piped_tap,,yes,"05:00-06:00,19:00-22:00",
+POINT (36.857718542923131 -1.26307441083206),4503959146,,drinking_water,Kwa Monicah Achieng,,operational,often,Ksh. 2 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.857680723849668 -1.262974901680982),4503959142,,drinking_water,Kwa Edward Otieno,,operational,often,Ksh. 2 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.857654313380316 -1.262305460054732),1204137057,,drinking_water,,,,,2 per 20litres,,piped_tap,yes,,5:30-8:30,private
+POINT (36.858157100444835 -1.263408951948324),4503896058,,drinking_water,Konyrikendi Self Help Group,,,never,,public_community,water_tank,,yes,,
+POINT (36.858414916931373 -1.263132876947031),4503959147,,drinking_water,New Ghetto Rangers,,operational,often,Ksh. 2 per 20 Litres,public_community,water_tank,yes,,,
+POINT (36.857822478001495 -1.262994929245084),4503959145,,drinking_water,Kwa Joseph,,operational,often,Ksh 2 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.857965130468621 -1.262989810091931),4503959144,,drinking_water,Kwa Jane Njeri,,operational,often,Ksh. 2 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.858194560192182 -1.26290637687526),4503896063,,drinking_water,Kwa Maina,,operational,often,Ksh. 2 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.85865449761765 -1.263365933106523),4503896065,,drinking_water,Kwa Peter Otieno,,operational,often,Ksh. 2 per 20 Litres,public_community,water_tank,,yes,,
+POINT (36.857986061214739 -1.262108507313777),1204137127,,drinking_water,Area E,,,,2ksh/20litres,,piped_tap,yes,,11:30-11:30,private
+POINT (36.858677045331284 -1.262549024025631),4503896068,,drinking_water,Masita Youth Group,,,never,,public_community,water_tank,,yes,,
+POINT (36.856727072344043 -1.262016093095031),1204137048,,drinking_water,,,,,none,,piped_tap,yes,,24/7,latf
+POINT (36.856814119095077 -1.261888742883462),1103152511,,drinking_water,,,,,2kshper20litres,,piped_tap,yes,,06:00-22:30,private
+POINT (36.857646048879701 -1.261718733035577),1204137097,,drinking_water,,,,,,,piped_tap,,yes,24/7,LATF
+POINT (36.857991720601028 -1.261964721924391),1204137065,,drinking_water,Area E,,,,2/20litres,,piped_tap,yes,,06:00-22:00,private
+POINT (36.858389225114252 -1.26156129654212),1204089873,,drinking_water,Watony,,operational,,3 ksh per20 ltrs,,piped_tap,,yes,5:30-10:30,private
+POINT (36.858362185824198 -1.261413020634561),1204089853,,drinking_water,,,operational,,3 ksh,,,,,7:00-9:00,private
+POINT (36.858518402852113 -1.261945502640019),1038202678,,drinking_water,,,operational,,2ksh per 20ltrs,,piped_tap,yes,,6:00-10:00,private
+POINT (36.858830567413342 -1.261939395577665),1204089849,,drinking_water,,,operational,,2 ksh per 20 ltr,,piped_tap,yes,,6:00-10:00,private
+POINT (36.858477978664318 -1.26157530686366),1205477315,,drinking_water,K-area,,operational,,3 Ksh per 20 ltr,public_community,piped_tap,,yes,06:00-20:00,latf
+POINT (36.85852145712407 -1.261536598859748),1038202641,,drinking_water,Counselor,,operational,,free,,piped_tap,,yes,24/7,latf
+POINT (36.858933514344898 -1.261157242428919),1207138005,,drinking_water,private Water Project,,operational,,,plot,piped_tap,yes,,06:00-22:00,private
+POINT (36.858979508087444 -1.261150147457261),1205477313,,drinking_water,K-area,,operational,,free,public_community,piped_tap,,yes,24/7,latf
+POINT (36.858735884982394 -1.261011032123107),1207138066,,drinking_water,private Water Project,,operational,,2 ksh/20 litres,plot,water_tank,yes,,07:00-21:30,private
+POINT (36.853879862051031 -1.260575634308765),4503854090,,drinking_water,,,operational,,Ksh. 2 per 20 Litres,,piped_tap,,yes,"05:00-06:00,19:00-22:00",
+POINT (36.859723313142695 -1.263388924387403),4502112967,,drinking_water,Susan Muthoni,,,never,Ksh. 2 per 20 Litres,,piped_tap,,,,
+POINT (36.859732026800955 -1.263269746925314),4502112956,,drinking_water,Lucy Minayo,,,never,,,piped_tap,,,,
+POINT (36.859655041181107 -1.263193947541897),4502112972,,drinking_water,,,,often,ksh. 2 per 20 Litres,,piped_tap,,,,
+POINT (36.859764455982706 -1.263215591678868),4502112962,,drinking_water,Paatrick Kimani,,operational,always,Ksh. 2 per 20 Litres,,piped_tap,,,,
+POINT (36.859798052974341 -1.263193947541897),4502112964,,drinking_water,Shantit Hardliving Youth Group,,operational,always,Ksh. 2 per 20 Litres,,piped_tap,,,,
+POINT (36.860153516332261 -1.263414699768477),1207074876,,drinking_water,,,operational,,1ksh/20l,,piped_tap,yes,,07:00-18:00,private
+POINT (36.86003466922017 -1.263099108499827),1038103787,,drinking_water,Wesonga Water Point,,,,,,,,,,
+POINT (36.859502776740449 -1.262342102423488),1204089876,,drinking_water,,,operational,,2ksh/20ltr,,piped_tap,yes,,5:00-9:00,private
+POINT (36.860295719641741 -1.262488222844764),4502162892,,drinking_water,Kwa Wairimu,,operational,always,Ksh. 2 per 20 Litres,,piped_tap,,,,
+POINT (36.860320872469693 -1.262504388594612),4453001029,yes,drinking_water,Okumu,,,,,,piped_tap,,,,
+POINT (36.859851323070686 -1.262223194342587),1038202691,,drinking_water,,,operational,,2ksh/20ltr,,piped_tap,yes,,4:30-12:00,private
+POINT (36.859956785285043 -1.262149999410924),1038202803,,drinking_water,,,operational,,2 ksh per 20 ltr,,piped_tap,yes,,6:00-10:00,private
+POINT (36.860760957127383 -1.263335128382216),4502162894,,drinking_water,NYS Huduma,,,never,,,water_tank,,,,
+POINT (36.860834708812213 -1.263312406529927),4452994240,yes,drinking_water,Councillor,,,always,,,water_tank,,,,
+POINT (36.86155488817549 -1.263103688794563),1112885110,,drinking_water,,,,,,,,,,,
+POINT (36.861598995455935 -1.26307791341041),4503890363,,drinking_water,Kwa Moses,,,never,,,piped_tap,,,,
+POINT (36.860619382638603 -1.262116051331487),4500072569,,drinking_water,Kwa Hassan,,operational,often,Ksh. 3 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.861016887151834 -1.26227905599457),4502162897,,drinking_water,,,,never,,,water_tank,,,,
+POINT (36.86098284100256 -1.262080935725056),4500098189,,drinking_water,Progressive Youth Group,,operational,often,Ksh. 3 per 20 Litres,public_community,water_tank,,yes,,
+POINT (36.861072852194027 -1.262118925242989),4502162896,,drinking_water,,,operational,often,Ksh.2 per 20 Litres,,piped_tap,,,,
+POINT (36.861515721629104 -1.262684277459784),1205552270,,drinking_water,Maranatha,,operational,,2ksh/20ltr,church,piped_tap,yes,,07:00-19:00,faith_based_organization
+POINT (36.861488592507527 -1.262575787321925),1112885013,yes,drinking_water,Maranatha Water Point,maranatha,operational,always,Ksh. 2 per 20 Litres,church,water_tank,yes,,,faith_based_organization
+POINT (36.861368577585559 -1.2623455151931),1103092492,,drinking_water,,,,,,,,,,,
+POINT (36.859181269700258 -1.261945682259504),1204089865,,drinking_water,Community,,operational,,free,,piped_tap,,yes,6:00-10:00,latf
+POINT (36.859760144069348 -1.2613989205024),1205477316,,drinking_water,Seccess care center,,operational,,300 ksh per month,school,piped_tap,,,6:30-6:30,private
+POINT (36.860155851952001 -1.261910925889727),1207138056,,drinking_water,Rose,,operational,,2ksh per 20ltrs,,piped_tap,yes,,08:00-19:00,private
+POINT (36.859475108629695 -1.261095902356914),1207138011,,drinking_water,private Water Project,,operational,,2 ksh/20 litres,plot,piped_tap,yes,,06:00-21:00,private
+POINT (36.859298589676364 -1.260945021939346),1205477314,,drinking_water,Kachibora,,operational,,2 ksh per 20 ltr,,piped_tap,,,7:00-9:00,private
+POINT (36.860354199966729 -1.261201877883054),1207138061,,drinking_water,Private Water Project,,operational,,3kshper20litres,,piped_tap,yes,,06:00-20:00,private
+POINT (36.860018050387417 -1.260745913660671),1038202689,,drinking_water,Public water taps / toilets,,,,,,,,,,
+POINT (36.860669508631467 -1.261758788182991),4453013009,yes,drinking_water,Gumba Market,,,,,,piped_tap,,,,
+POINT (36.860626030171716 -1.261741903950521),4500072570,,drinking_water,Kwa Jane,,operational,always,Ksh. 2 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.861509074095999 -1.261869074549806),4500110017,,drinking_water,Kwa Atha,,non_operationa,never,,public_community,water_tank,,yes,,
+POINT (36.861716854421218 -1.261602788647995),4500072571,,drinking_water,Kwa Mrefu,,,always,,,,,,,
+POINT (36.861749014108383 -1.261483431484515),4500072568,,drinking_water,Kwa Amos,,,often,,,,,,,
+POINT (36.861951853699544 -1.263214963010977),4503879844,,drinking_water,Fredy,,operational,often,Ksh. 3 per 20 Litres,,piped_tap,,,,
+POINT (36.862327259656773 -1.26327504569729),4503879856,,drinking_water,,,,never,,,piped_tap,,,,
+POINT (36.862496322593245 -1.263416136723503),4453067822,,drinking_water,,,,,,,,,,,
+POINT (36.862548604542781 -1.263315909107971),4503879855,,drinking_water,William Otieno,,operational,often,Ksh. 2 per 20 Litres,,piped_tap,,,,
+POINT (36.862078965312243 -1.262807226956586),1112884987,,drinking_water,,,,,,,,,,,
+POINT (36.862269497984009 -1.263026183021957),4503879850,,drinking_water,St Hellena Mathare,,operational,often,Ksh. 3 per 20 Litres,,water_tank,,,,
+POINT (36.862925178309887 -1.262867309652327),1112885073,,drinking_water,,,,,,,,,,,
+POINT (36.863054805205387 -1.262397604834008),1103092379,,drinking_water,Steve Kamau,,operational,often,,plot,piped_tap,yes,,06:00-21:00,private
+POINT (36.863395626024179 -1.262966279949289),4503879852,,drinking_water,Thayu Service Station,,operational,often,,,piped_tap,,,,
+POINT (36.863613108154468 -1.26293457712317),4503879854,,drinking_water,Villa Medical Centre,,operational,always,,,water_tank,,,,
+POINT (36.863281809477677 -1.262692809382702),4503879846,,drinking_water,Kwa Karoka,,operational,often,Ksh. 3 per 20 Litres,,piped_tap,,,,
+POINT (36.863707071933185 -1.262570039499927),4503879849,,drinking_water,Rosana Agencies,,operational,often,Ksh. 5 per 20 Litres,,piped_tap,,,,
+POINT (36.864054809779667 -1.262634253448104),4503879847,,drinking_water,Mutunga Muoti,,operational,often,ksh.3 per 20 Litre,,piped_tap,,,,
+POINT (36.86450585388382 -1.262523248635969),4503879848,,drinking_water,NYS Project,,,never,,,water_tank,,,,
+POINT (36.8640760998519 -1.262319560181981),4503879845,,drinking_water,Kingdom Hall of Jehovah Witness,,operational,always,,,water_tank,,,,
+POINT (36.861919963506956 -1.261842850104703),1103092365,yes,drinking_water,,muungano mabatini,,always,,,water_tank,,,,
+POINT (36.86192184996905 -1.261817703376265),4500072572,,drinking_water,Kwa Mwangi,,operational,often,,public_community,piped_tap,,yes,,
+POINT (36.861923916094206 -1.261798753520039),4500072573,,drinking_water,Kwa Serah,,operational,often,2. ksh per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.861951853699544 -1.261774145649662),4452994244,,drinking_water,,,,,,,,,,,
+POINT (36.861886097020744 -1.261734898790209),1103092228,,drinking_water,,,,,,,,,,,
+POINT (36.862579686251614 -1.261744688052688),4500110019,,drinking_water,TDS,,operational,often,Ksh. 2 per 20 Litres,public_community,water_tank,,yes,,
+POINT (36.86276330189569 -1.261861799960611),1112885001,,drinking_water,,,operational,,2ksh/20ltr,,piped_tap,yes,,06:00-22:00,private
+POINT (36.862799953159275 -1.261810877835641),4500097186,,drinking_water,Down Stairs,,operational,often,ksh.3 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.862831304362693 -1.261556895864197),1205552283,,drinking_water,,,,,2ksh/20ltr,,piped_tap,yes,,07:00-22:00,private
+POINT (36.862893467780353 -1.261516301855135),4452999230,,drinking_water,,,,,,,,,,,
+POINT (36.862744257611659 -1.261387694282453),4500097187,,drinking_water,Enlighters Mashimoni Youth Help Group,,operational,often,50 Cents per 20 Litres,public_community,water_tank,,yes,,
+POINT (36.862165742568692 -1.261324288591348),4500072574,,drinking_water,Twaweza Community Project,,operational,often,2. ksh per 20 Litres,public_community,water_tank,,yes,,
+POINT (36.862299501714496 -1.261230527198275),4500098190,,drinking_water,Whynot,,operational,often,Ksh. 3 per 20 Litres,public_community,water_tank,,yes,,
+POINT (36.862847114711698 -1.261350782470972),4500097188,,drinking_water,Mathare Mashimo Self Help Group,,operational,often,KSh.3 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.862727818441961 -1.261142154387912),4500110018,,drinking_water,Slum Children Project,,operational,often,Ksh. 3 per 20 Litres,public_community,piped_tap,,yes,,
+POINT (36.862890952497558 -1.261062852361428),1112885083,,drinking_water,kiosk,,operational,,2 ksh,plot,piped_tap,yes,,07:00-14:00,private
+POINT (36.862981592509726 -1.260919426153368),4452999147,,drinking_water,,,,,,,,,,,
+POINT (36.862912961222023 -1.260744117465022),4453009966,,drinking_water,,,,,,,,,,,
+POINT (36.863334630416389 -1.261873026178496),4503879851,,drinking_water,St.Paul Catholic Church,,operational,often,,,piped_tap,,,,
+POINT (36.863671857974047 -1.260792614746794),4503972783,,drinking_water,,,operational,often,,,piped_tap,,,,
+POINT (36.863704466818859 -1.260852787298853),4453036756,,drinking_water,,,,,,,,,,,
+POINT (36.863624876084685 -1.260745284992195),1205552261,,drinking_water,,,operational,,3kshper20litres,,piped_tap,yes,,07:00-21:00,private
+POINT (36.859360303936384 -1.260516988516728),1207138047,,drinking_water,private Water Project,,operational,,2 ksh/20 litres,plot,piped_tap,yes,,06:00-22:00,private
+POINT (36.859639769821278 -1.260543751833938),1207138067,,drinking_water,private Water Project,,operational,,2 ksh per 20 ltr,plot,piped_tap,yes,,06:00-21:00,private
+POINT (36.859682260134214 -1.260550038519135),1205477310,,drinking_water,I-area,,operational,,2ksh per 20ltrs,public_community,water_tank,,,7:00-6:00,private
+POINT (36.859872253816803 -1.260125238184523),1207138002,,drinking_water,private Water Project,,operational,,250permonth,public_community,piped_tap,yes,,06:30-22:00,private
+POINT (36.86028934160322 -1.259842247479173),1207138020,,drinking_water,private Water Project,,operational,,2kshper20litres,,piped_tap,yes,,08:00-21:00,private
+POINT (36.860573209233003 -1.25986101773001),1207138040,,drinking_water,private Water Project,,operational,,2kshper20litres,,piped_tap,yes,,06:00-21:00,private
+POINT (36.861931102616481 -1.260103055163017),4503972772,,drinking_water,Kwa Shosho,,operational,often,Ksh. 5 per 20 Litres,,piped_tap,,,,
+POINT (36.862889694856158 -1.260524891778217),4503972770,,drinking_water,Kwa Kariuki,,operational,often,Ksh 5 per 20 Litres,,water_tank,,,,
+POINT (36.862722698044841 -1.260379848964223),1112885058,,drinking_water,Paul,,operational,,2 ksh/20 litres,plot,piped_tap,yes,,07:30-20:00,private
+POINT (36.862995426565107 -1.260536028192086),4453013957,,drinking_water,,,,,,,,,,,
+POINT (36.862438920246589 -1.259754503290405),4503972780,,drinking_water,Kwa Shosho,,operational,often,Ksh. 2 per 20 Litres,,piped_tap,,,,
+POINT (36.862760606949834 -1.259983159071938),1207045066,,drinking_water,Private Kiosk,,operational,,Ksh. 2 per 20 Litres,plot,piped_tap,yes,,07:00-21:00,private
+POINT (36.862811990584085 -1.259992948341007),4503972777,,drinking_water,Kwa John,,operational,always,ksh. 5 per 20 Litres,,piped_tap,,,,
+POINT (36.863213268021497 -1.259572099547708),4453019259,,drinking_water,,,,,,,,,,,
+POINT (36.863202488238095 -1.259547132416988),1103092201,,drinking_water,,,,,2kshper20litres,,piped_tap,yes,,06:00-22:00,private
+POINT (36.863179221872237 -1.259534648851539),4503972769,,drinking_water,Kwa Kamale,,operational,often,,,water_tank,,,,
+POINT (36.86350809509775 -1.260534860664824),4453033691,,drinking_water,,,,,,,,,,,
+POINT (36.863510071391374 -1.260539620583651),1205552281,,drinking_water,,,operational,,3kshper20litres,,piped_tap,yes,,07:00-21:00,private
+POINT (36.863520042691029 -1.260509803733547),4503972771,,drinking_water,Kwa Phelomena,,operational,often,Ksh. 5 per 20 Litres,,piped_tap,,,,
+POINT (36.863543219225363 -1.260122633700213),1103092420,,drinking_water,,,,,,,piped_tap,yes,,,private
+POINT (36.863860144857597 -1.260103594021853),4503972773,,drinking_water,NYS Project,,operational,often,,,water_tank,,,,
+POINT (36.864073404906044 -1.260434004269713),4453041489,,drinking_water,,,,,,,,,,,
+POINT (36.864039358756777 -1.260411551821461),4503972779,,drinking_water,Kwa Njoro,,operational,often,,,piped_tap,,,,
+POINT (36.864279568263754 -1.260448822885449),1205552284,,drinking_water,Mama Mwai,,,,,public_community,piped_tap,yes,,06:00-21:00,private
+POINT (36.863495967841416 -1.259755760627829),4503972776,,drinking_water,Kwa Grace,,operational,often,Ksh. 5 per 20 Litres,,piped_tap,,,,
+POINT (36.863553549851126 -1.259736451517329),4453025782,,drinking_water,,Kwa Kariuki Women Group,,always,,,water_tank,,,,
+POINT (36.863700604063133 -1.259871974527091),4503972774,,drinking_water,Ngotas Upendo,,operational,often,Ksh. 2 per 20 Litres,,water_tank,,,,
+POINT (36.861985989680335 -1.259284708100505),4503972782,,drinking_water,,,operational,always,Ksh. 2 per 20 Litres,,piped_tap,,,,
+POINT (36.863036928731226 -1.258831078598586),4453023316,,drinking_water,,,,,,,,,,,
+POINT (36.863093881920243 -1.258793089032678),4503972781,,drinking_water,,,operational,often,Ksh. 2 per 20 Litres,,water_tank,,,,
+POINT (36.863258004122649 -1.259172715237342),4503972778,,drinking_water,Kwa Pastor (Mabatini),,operational,often,Ksh. 5 per 20 Litres,,piped_tap,,,,
+POINT (36.864534060983743 -1.258683431204585),1124602239,,drinking_water,,,,,,,,,,,
+POINT (36.866334284813114 -1.260735854965086),1205506596,,drinking_water,Ngei PAG primary School and Secondary,,operational,,,school,water_tank,yes,,08:00-17:00,faith_based_organization
+POINT (36.865017174943539 -1.260614791375892),4453046693,,drinking_water,,,,,,,,,,,
+POINT (36.865030290346695 -1.260561085123108),1103092423,,drinking_water,Mungano Mabatini Mwangaza,,operational,,5 ksh per 20 liters,public_community,water_tank,,yes,07:00-19:30,ngo_cbo
+POINT (36.864800141970896 -1.259568058105701),1225111173,,drinking_water,,,operational,,5ksh per 20ltrs,public_community,piped_tap,yes,,06:00-21:00,
+POINT (36.864699530659074 -1.259449329517724),1225111130,,drinking_water,,,operational,,5ksh per 20ltrs,public_community,piped_tap,yes,,06:30-21:30,
+POINT (36.866949181625095 -1.260668228198227),1205506600,,drinking_water,Lions Clinic water point,,operational,,,other,piped_tap,,,08:00-17:00,other
+POINT (36.868599566465079 -1.260399876548299),1204150696,,drinking_water,Huruma Community Youth Group,,operational,,3ksh/20l,public_community,water_tank,,yes,24/7,ngo_self_help
+POINT (36.868618880243687 -1.260393410243146),1205506599,,drinking_water,Huruma Community Water Project,,operational,,2 shillings,public_community,water_tank,,yes,06:00-20:00,ngo_cbo
+POINT (36.868184005814648 -1.260081141570751),1205506592,,drinking_water,Toms Water Project,,operational,,3 shillings,plot,piped_tap,yes,,07:00-19:00,private
+POINT (36.868566508462628 -1.260163137921198),1205506597,,drinking_water,kibichoi water project,,operational,,3 shillings,plot,piped_tap,yes,,06:00-19:00,private
+POINT (36.868123908522143 -1.259627781636935),1205506591,,drinking_water,Joy Wabb Water Project,,operational,,3 shillings,plot,piped_tap,yes,,06:00-20:00,private
+POINT (36.869278063999175 -1.258405379885135),1123201201,,drinking_water,Mama karanja water kiosk,,,,,,,,,,
+POINT (36.869182213758364 -1.258165856970886),1204150683,,drinking_water,Unicorns empowerment youth group,,operational,,5 shillings/20 liters,public_community,water_tank,,yes,24/7,ngo_self_help
+POINT (36.869641163037024 -1.258465552492319),1225082562,,drinking_water,Washiru/Wamakara,,operational,,5 Shillings Per 20 Litres,,piped_tap,yes,no,05:00-22:00,private
+POINT (36.869665507381221 -1.258440136301679),1225082556,,drinking_water,Mwangi photo studio,,operational,,5shillings per 20 litres,,piped_tap,yes,,05:00-22:00,private
+POINT (36.869680060088818 -1.258365594115753),1123201180,,drinking_water,Wamakaa Water Kiosk,,,,,,,,,,
+POINT (36.862624871510398 -1.255866902887454),1225090760,,drinking_water,Good Green Pastures,,operational,,,,,,,Mo-Fr 07:00-17:00,ngo_cbo
+POINT (36.862347292087613 -1.254534302512619),1225090823,,drinking_water,Real Prepatory School,,operational,,,school,piped_tap,yes,,Mo-Fr 07:30-16:00,private
+POINT (36.862721260740393 -1.253920091880795),1225090832,,drinking_water,Lins Day Care Community Centre,,non_operational,,,school,piped_tap,yes,,Mo-Fr 08:00-17:00,ngo_cbo
+POINT (36.862845048586543 -1.253595518460491),1225090758,,drinking_water,North Ridge High School,,operational,,,school,piped_tap,yes,,06:00-17:30,ngo_cbo
+POINT (36.863259710921689 -1.253171615095019),6034444588,,water_point,Tap,,,,,,,,,,
+POINT (36.864730612367907 -1.257926154414877),1225111224,,drinking_water,,,operational,,5ksh per 20ltrs,public_community,piped_tap,yes,,,private
+POINT (36.864968755749722 -1.257703605525259),1225111263,,drinking_water,,,operational,,2ksh per 20ltrs,,,,,06:30-21:30,
+POINT (36.865590300094816 -1.257022038206519),1204053958,,drinking_water,Star Of Hope Academy,,operational,,,school,water_tank,yes,,24/7,faith_based_organization
+POINT (36.866436782587037 -1.256839005603329),1204053966,,drinking_water,Star Of Hope Academy,,operational,,,school,water_tank,yes,,24/7,faith_based_organization
+POINT (36.865301401899444 -1.256131932035893),1204053952,,drinking_water,Mathare North Dispensary,,operational,,,clinic,water_tank,,yes,Mo-Fr 08:30-20:00,local_authority
+POINT (36.868647356838196 -1.257625021873269),1204150731,,drinking_water,Mama Mercy,,operational,,5 shillings,plot,piped_tap,yes,,24/7,private
+POINT (36.869043513878495 -1.257781829935353),1123201136,,drinking_water,Mzee charles water kiosk,,,,,,,,,,
+POINT (36.868923229461949 -1.25769408567725),1225111259,,drinking_water,Ongerach,,operational,,5ksh per 20ltrs,public_community,piped_tap,yes,,06:30-21:30,
+POINT (36.868752819052553 -1.257327751122594),1204150723,,drinking_water,Kwa MZEE,,operational,,5 shillings,plot,piped_tap,yes,,24/7,private
+POINT (36.86960541008871 -1.257099633967691),1205506598,,drinking_water,Vision Youth Group,,operational,,5 shillings,public_community,piped_tap,,yes,08:00-19:00,ngo_cbo
+POINT (36.86987265888574 -1.256864331999646),1225090136,,drinking_water,,,operational,,5ksh per 20ltrs,public_community,water_tank,yes,,Tu-Su 08:00-15:00; Sa 08:00-12:00,private
+POINT (36.868296924045865 -1.255510087932533),1204053959,,drinking_water,One Love Youth Group Water Project,,operational,,3 shillings,public_community,water_tank,,yes,24/7,ngo_self_help
+POINT (36.869975515985772 -1.256515959314116),1225090205,,drinking_water,Kwa Karegi,,operational,,2ksh per 20ltrs,public_community,piped_tap,yes,,05:30-20:30,private
+POINT (36.869877689451329 -1.255523289996925),1225090077,,drinking_water,Madoya Tumaini Youth Group,,operational,,5ksh per 20ltrs,public_community,,,yes,06:00-21:00,ngo_self_help
+POINT (36.865563709962402 -1.254159345754225),1204053949,,drinking_water,Jangwani CDF Water Project,,operational,,2 shillings,public_community,piped_tap,,yes,24/7,cdf
+POINT (36.867107464778158 -1.25335222308391),1225090815,,drinking_water,Nyanya Water Point,,operational,,,plot,piped_tap,yes,,24/7,private
+POINT (36.868872115322283 -1.254096299127541),1225090778,,drinking_water,Missions Of Hope International,,operational,,,school,piped_tap,yes,,Mo-Fr 07:00-16:30,ngo_national
+POINT (36.869762615263433 -1.254170661815275),1225025795,,drinking_water,Mathare North Primary School,,operational,,,school,water_tank,yes,,Mo-Fr 08:00-17:00,local_authority
+POINT (36.867805365922393 -1.253076685878562),1204053953,,drinking_water,ST Maurus Primary School,,operational,,,school,piped_tap,yes,yes,Mo-Fr 08:30-20:00,faith_based_organization
+POINT (36.869812292098651 -1.25376103833647),1224991167,,drinking_water,Mathare North Primary School,,operational,,,school,water_tank,,yes,08:00-17:00,local_authority
+POINT (36.870516481449869 -1.259022553187132),1225082560,,drinking_water,Kingstone Youth Group,,operational,,,,water_tank,,yes,,
+POINT (36.872239989153975 -1.258181124648871),1123201189,,drinking_water,Huruma unity initiative youth group,,operational,,,,water_tank,,yes,06:00-19:00,ngo_cbo
+POINT (36.875401789459495 -1.260047462893748),1205458965,,drinking_water,Benson Water Point,,operational,,3 shililing per 20 litres,plot,piped_tap,yes,,24/7,private
+POINT (36.875564115031331 -1.259355927296473),1205458969,,drinking_water,Karanja Water Point,,operational,,3 shililing per 20 litres,plot,piped_tap,yes,,08:00-18:00,private
+POINT (36.875104447100448 -1.259092604862351),1205481287,,drinking_water,Muungano Wa Exgrogon Slums,,operational,,3 shililing per 20 litres,,water_tank,,yes,06:00-23:00,ngo_self_help
+POINT (36.876718001013785 -1.26081479776241),1205458967,,drinking_water,Kambi Moto S.H.G,,operational,,3 shililing per 20 litres,plot,water_tank,,yes,08:00-20:00,cdf
+POINT (36.875914907149784 -1.259851677509513),1225096840,,drinking_water,Muthaka Nyaga,,operational,,3shillings per 20 litres,,water_tank,,yes,06:00-22:00,ngo_cbo
+POINT (36.876773427066816 -1.258022430603379),1205481289,,drinking_water,Huruma Youth Group,,operational,,3 shililing per 20 litres,,piped_tap,,yes,06:00-20:00,ngo_self_help
+POINT (36.870469769055092 -1.257603287879954),1204150689,,drinking_water,E Lukhoba,,operational,,5 shillings,plot,water_tank,yes,,24/7,private
+POINT (36.870842749561064 -1.257487433119156),1204150692,,drinking_water,Ronney Councillor,,operational,,5 shillings,plot,piped_tap,yes,,24/7,private
+POINT (36.870204855877809 -1.257047903460501),1225090097,,drinking_water,,,operational,,5ksh per 20ltrs,,piped_tap,yes,,06:30-21:00,private
+POINT (36.870679885000051 -1.256698812320085),1225090272,,drinking_water,John Thuo,,operational,,2ksh per 20ltrs,public_community,piped_tap,yes,,07:00-21:00,private
+POINT (36.872030142703608 -1.256663427210893),1204150727,,drinking_water,Ngei 1 Developement Youth Group,,operational,,3 shillings,public_community,water_tank,,yes,24/7,ngo_cbo
+POINT (36.872492595411877 -1.256716415064589),1225090092,,drinking_water,Papanzuka Welfare,,operational,,5ksh per 20ltrs,public_community,piped_tap,yes,,06:00-21:00,ngo_self_help
+POINT (36.870973274771842 -1.2557664055517),1225090260,,drinking_water,,,,,3ksh per 20ltrs,public_community,piped_tap,yes,,Mo-Fr 08:30-20:00,
+POINT (36.872999604558231 -1.256355019919076),1204150700,,drinking_water,Blessed Youth Group,,operational,,5 shillings,public_community,water_tank,,yes,24/7,ngo_self_help
+POINT (36.873116744871275 -1.25611980769388),1225090155,,drinking_water,Premk-BC youth Group,,operational,,5ksh per 20ltrs,,water_tank,yes,,,ngo_cbo
+POINT (36.873639564366634 -1.255950605759337),1205458975,,drinking_water,Laurin Hill,,operational,,3 shililing per 20 litres,public_community,piped_tap,,yes,06:00-18:00,ngo_national
+POINT (36.873729485726578 -1.255904443446213),1205458968,,drinking_water,Blue Stone,,operational,,2 shillings per20 litres,,,,,06:00-17:00,
+POINT (36.873171003114443 -1.255288077696872),1205481290,,drinking_water,Kihohia,,operational,,3 shililing per 20 litres,plot,piped_tap,yes,,08:00-18:30,
+POINT (36.874456043128376 -1.255448478297832),1111566338,,drinking_water,Environment Comrades Water Project,,operational,,2 shillings per20 litres,school,water_tank,,yes,08:00-17:00,other
+POINT (36.871079006480784 -1.253880036613067),1225025715,,drinking_water,St Benedict Parish,,operational,,,school,piped_tap,yes,,24/7,faith_based_organization
+POINT (36.870910302870428 -1.253133535636802),1204053970,,drinking_water,Mathare North Market,,operational,,5 shillings,public_community,water_tank,,,24/7,ngo_cbo
+POINT (36.873971491864118 -1.254908810167354),1123209338,,drinking_water,Water Point,,,,,,,,,,
+POINT (36.873314374233786 -1.254406502885786),1205481288,,drinking_water,,,operational,,No fee,,piped_tap,yes,,24/7,private
+POINT (36.877596912687764 -1.254302682523778),1205501875,,drinking_water,Righteous Youth Group Kiamaiko Carwash,,operational,,70 shillings per month,,water_tank,,yes,07:00-19:00,ngo_self_help
+POINT (36.875672362023067 -1.253812140238552),1225010950,,drinking_water,,,operational,,Ksh.1 per 20 Litres,,piped_tap,yes,,06:00-18:00,private
+POINT (36.875970512865869 -1.253239421676102),1205501876,,drinking_water,,,operational,,2 shillings per20 litres,,piped_tap,yes,,07:00-18:00,private
+POINT (36.878199322917304 -1.253649314666574),1205501874,,drinking_water,Huruma Group,,operational,,100 shillings per month,,water_tank,,yes,06:00-01:00,ngo_self_help
+POINT (36.871277264663988 -1.252386495587357),1204053962,,drinking_water,Ultimate Transformers Youth Group,,operational,,3 shillings,public_community,water_tank,,yes,24/7,ngo_cbo
+POINT (36.874845103477924 -1.251647987283991),1225025743,,drinking_water,Mathare Vijana Development Organisation(MAVIDO),,operational,,3 shilling per 20 litres,public_community,water_tank,,yes,24/7,ngo_cbo
+POINT (36.874413642646964 -1.250176179041827),1225025819,,drinking_water,Ruaraka Chief Camp,,operational,,,other,water_tank,yes,,24/7,other

@@ -1,0 +1,584 @@
+WKT,osm_id,access,amenity,man_made,name,operator,operational_status,watsan:cost,watsan:location,watsan:type,watsan:water_private,watsan:water_public,opening_hours,operator:type
+POINT (36.778332085645751 -1.31882551119575),769158966,private,drinking_water,,,,,2 shillings per gerican,,,yes,,,private
+POINT (36.778356879147587 -1.318618414556831),941480154,private,drinking_water,,,,operational,KShs 5,,,yes,,08:00-21:00,local_authority
+POINT (36.779382575538996 -1.318858560440956),941480060,private,drinking_water,water_tower,,,operational,,,,yes,,06:00-20:00,private
+POINT (36.794130217558383 -1.318593178581877),941480150,yes,drinking_water,,,,operational,,,,,yes,Mo-Su 06:00-21:00,ngo_cbo
+POINT (36.79472714806468 -1.319406746770244),941480287,yes,drinking_water,,,,operational,,,,,yes,Mo-Su 06:00-21:00,ngo_cbo
+POINT (36.794957386272003 -1.31859461550572),941480400,yes,drinking_water,,,,operational,,,,,yes,Mo-Su 06:00-21:00,ngo_cbo
+POINT (36.795837106429744 -1.318640507260672),941480379,yes,drinking_water,,,,operational,,,,,yes,Mo-Su 06:00-21:00,ngo_cbo
+POINT (36.796060697103961 -1.318597219930197),612009195,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,private
+POINT (36.796114955347122 -1.318566595490544),941480237,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,ngo_cbo
+POINT (36.797655116901744 -1.318612936284717),612009023,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,private
+POINT (36.797731294037838 -1.318600453008852),941480118,yes,drinking_water,,,,,,,,,yes,Mo-Su 06:00-21:00,ngo_international
+POINT (36.797831007034375 -1.318615899940124),612008633,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,private
+POINT (36.797917424964709 -1.318382759036953),612009021,yes,drinking_water,,,,operational,Ksh.2,,,,yes,Mo-Su 06:00-21:00,private
+POINT (36.775350846712342 -1.315666342598976),2429045849,,drinking_water,,Revival centre,,,,,,,,,
+POINT (36.776267757122845 -1.316450005740052),2429045904,,drinking_water,,,,,,,,,,,
+POINT (36.775564376255375 -1.315919061864819),2105336479,,drinking_water,,Water Tank,,operational,ksh 5 per 20litre can,,,,yes,08:00-17:00,ngo_cbo
+POINT (36.775537516628383 -1.315857543495791),2429045892,,drinking_water,,,,,,,,,,,
+POINT (36.776462152550323 -1.316281256844735),2429045901,,drinking_water,,,,,,,,,,,
+POINT (36.775328388830232 -1.31544442740166),2429045880,,drinking_water,,,,,,,,,,,
+POINT (36.775302158023948 -1.315290855966609),2429045875,,drinking_water,,,,,,,,,,,
+POINT (36.775071111332863 -1.315041998375495),2429045846,,drinking_water,,Gethesemane pentecostal church,,,,,,,,,
+POINT (36.775243048878245 -1.314956680898997),2429045850,,drinking_water,,St catherine children centre,,,,,,,,,
+POINT (36.775832074210044 -1.315362792061039),2429045877,,drinking_water,,,,,,,,,,,
+POINT (36.775858125353281 -1.315271008429587),2429045872,,drinking_water,,,,,,,,,,,
+POINT (36.775911215786572 -1.315175542672333),2429045870,,drinking_water,,,,,,,,,,,
+POINT (36.776135884439135 -1.31548654728482),2429045884,,drinking_water,,,,,,,,,,,
+POINT (36.776278177580139 -1.315282863067103),2429045873,,drinking_water,,,,,,,,,,,
+POINT (36.775479754955612 -1.314822238511682),2429045851,,drinking_water,,Ushirika,,,,,,,,,
+POINT (36.775490983896667 -1.314811910605882),2429045842,,drinking_water,,Caroline atieno,,,,,,,,,
+POINT (36.775959095991219 -1.314830321220549),2429045867,,drinking_water,,,,,,,,,,,
+POINT (36.775482090575352 -1.314348142687277),2429045844,,drinking_water,,Francis oduor,,,,,,,,,
+POINT (36.775946699240301 -1.314512491126851),1367567694,,drinking_water,,WSUP (Lucas),,bad,,,Water Kiosk,,,,Individual
+POINT (36.776326147616309 -1.314689233043222),2429045841,,drinking_water,,Baba nyambura,,,,,,,,,
+POINT (36.776328303572988 -1.314645137373185),769073198,private,drinking_water,,,,operational,Ksh 4 per20litre can,public_community,water_tank,yes,,07:00-19:00,private
+POINT (36.776590791299007 -1.3147450037368),941480442,yes,drinking_water,,,,operational,2sh per 20liter can,,,,yes,06:00-19:30,ngo_cbo
+POINT (36.776496288531121 -1.314450703299462),2429045843,,drinking_water,,Elly,,,,,,,,,
+POINT (36.776513895510689 -1.314417923419504),2105336483,,drinking_water,,Water tap,,operational,Ksh 4 per20litre can,,,,yes,07:00-21:00,private
+POINT (36.774546764701519 -1.313578578729947),769112066,yes,drinking_water,,FNV Water Point,,operational,3 per 20 litre can,,,,yes,07:00-19:00,ngo_cbo
+POINT (36.774655820177017 -1.312956928222815),2438886375,,drinking_water,,,,,,,,,,,
+POINT (36.774901778901814 -1.313518587037929),4734967921,,drinking_water,,,,,,,,,,,
+POINT (36.774930614822431 -1.31348625618536),2444298686,,drinking_water,,,,,,,,,,,
+POINT (36.775091053932172 -1.3133667218351),2438886416,,drinking_water,,,,,,,,,,,
+POINT (36.775151869876908 -1.313015123769474),2438886378,,drinking_water,,,,,,,,,,,
+POINT (36.775758142862159 -1.314238038207517),2429045856,,drinking_water,,,,,,,,,,,
+POINT (36.775844381129438 -1.314052944124133),2429045854,,drinking_water,,,,,,,,,,,
+POINT (36.775643158505794 -1.313609831886293),2438886481,,drinking_water,,,,,,,,,,,
+POINT (36.776179273067349 -1.31413889028683),769074490,yes,drinking_water,,Soweto Beautyfire Self-Help Group,,non_operational,2sh per 20litre can,,,,yes,06:00-19:00,ngo_cbo
+POINT (36.776313211876214 -1.31358962510422),2433443514,,drinking_water,,Eunice adhiambo,,,,,,,,,
+POINT (36.775653129805448 -1.313341395999069),2438886411,,drinking_water,,,,,,,,,,,
+POINT (36.775675318192967 -1.31325886251039),2438886406,,drinking_water,,,,,,,,,,,
+POINT (36.775817521502439 -1.313491644660809),2438886428,,drinking_water,,,,,,,,,,,
+POINT (36.775855969396602 -1.313479610398949),2438886423,,drinking_water,,,,,,,,,,,
+POINT (36.775852465966992 -1.313428330073436),769108789,yes,drinking_water,,Kianda Water Tank,,closed,,,,,yes,,private
+POINT (36.775468885340672 -1.312938876826112),2438886371,,drinking_water,,,,,,,,,,,
+POINT (36.775743679986086 -1.313178035369757),2438886394,,drinking_water,,,,,,,,,,,
+POINT (36.775956311213839 -1.312872508754558),2438933728,,drinking_water,,,,,,,,,,,
+POINT (36.776453169397485 -1.313186926355364),2433443617,,drinking_water,,,,,,,,,,,
+POINT (36.778202279087189 -1.317111440230238),769158955,private,drinking_water,,,,operational,2 shillings per head,,,yes,,06:00-20:00,private
+POINT (36.779222046597724 -1.317153649893027),2452591115,,drinking_water,,,,,,,,,,,
+POINT (36.776926401889163 -1.316617407506776),769158971,private,drinking_water,,,,operational,2 shillings per head,,,yes,,,private
+POINT (36.776926671383741 -1.316617317698955),769158968,yes,drinking_water,,,,operational,2 shillings per head,,,,yes,05:00-08:00,private
+POINT (36.776864687629143 -1.316262576817303),2429045900,,drinking_water,,,,,,,,,,,
+POINT (36.776768118736094 -1.31618974267055),2429045897,,drinking_water,,,,,,,,,,,
+POINT (36.777031684440459 -1.316131816621359),2105336482,,drinking_water,,Water Tap,,non_operational,,,,,yes,,unknown
+POINT (36.776852111215163 -1.315709629980378),2429045890,,drinking_water,,,,,,,,,,,
+POINT (36.776799829265627 -1.315642812943213),2429045887,,drinking_water,,,,,,,,,,,
+POINT (36.776974910914504 -1.315692656297721),2429045889,,drinking_water,,,,,,,,,,,
+POINT (36.777360557665972 -1.315868589859976),2433443545,,drinking_water,,Morara,Morara,,,,,,,,
+POINT (36.778646226500605 -1.316736492662298),2452591087,,drinking_water,,,,,,,,,,,
+POINT (36.778843227042415 -1.316506584664607),2452557807,,drinking_water,,Mama richard,,,,,,,,,
+POINT (36.779130508270278 -1.316569539942644),2452557804,,drinking_water,,Julius,,,,,,,,,
+POINT (36.779384551832621 -1.316444527463168),2452557802,,drinking_water,,Abubakar,,,,,,,,,
+POINT (36.778485697559333 -1.316195400563649),2433443556,,drinking_water,,Tornado,,,,,,,,,
+POINT (36.778724559593385 -1.316122027567957),2452591032,,drinking_water,,,,,,,,,,,
+POINT (36.778633470423571 -1.31580581417991),2452591003,,drinking_water,,,,,,,,,,,
+POINT (36.778850593227745 -1.316165584364923),2452591036,,drinking_water,,,,,,,,,,,
+POINT (36.779201565009245 -1.316232581003736),2452557808,,drinking_water,,Stephen kikumu,,,,,,,,,
+POINT (36.779111463986247 -1.315953099034773),2452557805,,drinking_water,,Mama faith,,,,,,,,,
+POINT (36.778916709232647 -1.315632934080057),769145325,yes,drinking_water,,,,operational,2,,,,yes,07:00-18:00,
+POINT (36.779643446297513 -1.317160116054088),2452591118,,drinking_water,,,,,,,,,,,
+POINT (36.780151802916791 -1.317132994100688),2452591112,,drinking_water,,,,,,,,,,,
+POINT (36.780730767117404 -1.317219838235177),2452608409,,drinking_water,,Tony,,,,,,,,,
+POINT (36.779480581736493 -1.316668238727701),2452591085,,drinking_water,,,,,,,,,,,
+POINT (36.779851046959664 -1.316644709081391),2452591083,,drinking_water,,,,,,,,,,,
+POINT (36.780104551532844 -1.316788401574471),612007911,yes,drinking_water,water_tower,,,,,,,,yes,,
+POINT (36.779804693891002 -1.316569629750466),612009086,yes,drinking_water,water_tower,,,,,,,,yes,,
+POINT (36.779814844853718 -1.316378339100433),2452591062,,drinking_water,,,,,,,,,,,
+POINT (36.779860299607087 -1.316463387104868),2452591076,,drinking_water,,,,,,,,,,,
+POINT (36.779853382579397 -1.316421177430375),2452591072,,drinking_water,,,,,,,,,,,
+POINT (36.780117307609878 -1.316447042082063),1367567689,,drinking_water,,WSUP (Jasho Letu),,operational,KShs 3 per 20L can,,Water Kiosk,,yes,06:00-21:00,cbo
+POINT (36.780179291364483 -1.316880993420313),2452557803,,drinking_water,,Adhu,,,,,,,,,
+POINT (36.780742624879153 -1.316856206466768),2452591101,,drinking_water,,,,,,,,,,,
+POINT (36.780377010558517 -1.316509727938163),2452591079,,drinking_water,,,,,,,,,,,
+POINT (36.780750080896013 -1.316420818199103),2452591070,,drinking_water,,,,,,,,,,,
+POINT (36.779899915311127 -1.316281975307331),2452557806,,drinking_water,,Mama molly,,,,,,,,,
+POINT (36.779639403878726 -1.315620899828488),2452590968,,drinking_water,,,,,,,,,,,
+POINT (36.780247114168432 -1.316146634913136),2452591034,,drinking_water,,,,,,,,,,,
+POINT (36.780699505745517 -1.316246950255783),2452591051,,drinking_water,,,,,,,,,,,
+POINT (36.780198784806146 -1.31573055520805),2444373427,,drinking_water,,,,,,,,,,,
+POINT (36.781108329031319 -1.316435187450068),2452591075,,drinking_water,,,,,,,,,,,
+POINT (36.781139770066261 -1.316392259312547),2452591067,,drinking_water,,,,,,,,,,,
+POINT (36.781214779392485 -1.316463925951758),2452608402,,drinking_water,,Odipo,,,,,,,,,
+POINT (36.782041768443044 -1.316921945777801),2452608405,,drinking_water,,Robert musyoka,,,,,,,,,
+POINT (36.781644802918997 -1.316591722472475),2452608457,,drinking_water,,,,,,,,,,,
+POINT (36.781296975240984 -1.316175822457304),612007917,yes,drinking_water,,,,,,,,,yes,,
+POINT (36.781158455024176 -1.315616858475346),2452590966,,drinking_water,,,,,,,,,,,
+POINT (36.781811709898783 -1.316040841288682),1367567688,,drinking_water,,WSUP (Mwangi),,operational,KShs 3 per 20L can,,water Kiosk,,yes,06:00-21:00,Individual
+POINT (36.781875400452428 -1.31583158903015),2452591006,,drinking_water,,,,,,,,,,,
+POINT (36.782137528852331 -1.315681789548454),2452590995,,drinking_water,,,,,,,,,,,
+POINT (36.776993056883242 -1.315568721468463),2429045885,,drinking_water,,,,,,,,,,,
+POINT (36.776794349542392 -1.315306662149841),2105336481,,drinking_water,,Water Tap,,operational,Ksh 4 per20litre can,,,,yes,06:00-18:00,unknown
+POINT (36.777225810373352 -1.31540652848698),2433443524,,drinking_water,,Hadijah suleiman,,,,,,,,,
+POINT (36.777347711757407 -1.315362612445333),2433443529,,drinking_water,,Jacline oure,,,,,,,,,
+POINT (36.777034020060192 -1.315216854289274),769072544,private,drinking_water,,,,operational,Ksh5 per 20litre can,,,yes,,06:00-21:00,private
+POINT (36.776829922827645 -1.315055020516393),2105336480,,drinking_water,,Water Tap,,operational,ksh4 per 20litre can,,,,yes,06:00-20:00,private
+POINT (36.777426673670888 -1.315426914870066),2433443561,,drinking_water,,Uzain musa,,,,,,,,,
+POINT (36.777786628605227 -1.315553813365417),2433443541,,drinking_water,,Moleiti,,,,,,,,,
+POINT (36.777203891480418 -1.314723898885101),2429056307,,drinking_water,,,,,,,,,,,
+POINT (36.777188709952121 -1.31471869002808),2429056306,,drinking_water,,,,,,,,,,,
+POINT (36.777130858447826 -1.314305124705969),2429056303,,drinking_water,,,,,,,,,,,
+POINT (36.778294086909227 -1.315592161317092),941480261,yes,drinking_water,,,Ushirika,operational,3sh per 20litre can,,,,yes,06:00-21:00,ngo_cbo
+POINT (36.778911588835534 -1.315441553550322),941479905,yes,drinking_water,,,,operational,3,,,,yes,06:00-19:00,private
+POINT (36.779361554961348 -1.315313936586408),941479959,private,drinking_water,,,,operational,,,,yes,,07:00-18:00,private
+POINT (36.779384551832621 -1.315258614944838),2444373416,,drinking_water,,,,,,,,,,,
+POINT (36.776907357605133 -1.314024385210491),2429056295,,drinking_water,,,,,,,,,,,
+POINT (36.776860285884247 -1.313877998320933),772439556,yes,drinking_water,,,,operational,3/= per 20lit,,,,yes,06:00-20:30,private
+POINT (36.776842229747039 -1.313860395970448),2429056292,,drinking_water,,,,,,,,,,,
+POINT (36.777114509109651 -1.31376097861103),769173607,yes,drinking_water,,,,operational,3/= per 20lit,,,,yes,06:00-20:30,private
+POINT (36.777372056101612 -1.313046736164625),2433443552,,drinking_water,,Soso,,,,,,,,,
+POINT (36.777369181492695 -1.312976775778221),941479972,yes,drinking_water,,,Tony nyang tek,operational,3/= per 20lit,,,,yes,06:00-18:00,ngo_cbo
+POINT (36.778218358930779 -1.313230303587665),2433611751,,drinking_water,,Kaka,,,,,,,,,
+POINT (36.779942315792532 -1.315226194306928),2444373414,,drinking_water,,,,,,,,,,,
+POINT (36.780608686070288 -1.315384435754476),2452590943,,drinking_water,,,,,,,,,,,
+POINT (36.780615603097978 -1.315351745694615),941480113,private,drinking_water,,,,operational,2,,,yes,,07:00-18:00,private
+POINT (36.780214684986674 -1.315144379343451),2444373409,,drinking_water,,,,,,,,,,,
+POINT (36.781397047563637 -1.315262207259268),7208317849,,drinking_water,,Pentecostal Fellowship Church,,,,,,,,,
+POINT (36.781397047563637 -1.315262207259268),2452590889,,drinking_water,,Pentecostal Fellowship Church,,,,,,,,,
+POINT (36.781355365734456 -1.314982006718642),2452590914,,drinking_water,,,,,,,,,,,
+POINT (36.782046349850994 -1.314954974549425),2452590908,,drinking_water,,,,,,,,,,,
+POINT (36.781350784326506 -1.314905400603814),844847408,yes,drinking_water,,,,,,,,,yes,06:00-18:00,
+POINT (36.781459210981296 -1.314642353328816),1367567691,,drinking_water,,WSUP (Kibera Kids Youth Organisation),,non_operational,,,water_kiosk,,,,cbo
+POINT (36.779674168680224 -1.313520113772634),772439543,private,drinking_water,,,,operational,none,,,yes,,24/7,other;government
+POINT (36.779674078848693 -1.313520383196404),769173608,private,drinking_water,,,,operational,,,,yes,,24/7,private
+POINT (36.780183603277848 -1.313316339586592),769173606,yes,drinking_water,,,,operational,3/= per 20lit,,,,yes,06:30-18:00,private
+POINT (36.780184501593133 -1.313314812851759),772439557,yes,drinking_water,,,,operational,3/= per 20lit,,,,yes,06:30-18:00,other;government
+POINT (36.781733107311425 -1.313771126905348),1980680622,,drinking_water,,HNP Well Head;HNP showers,,,,,,,,,
+POINT (36.773538675289686 -1.311751705331483),4734746683,,drinking_water,,,,,,,,,,,
+POINT (36.773323169453029 -1.311603881380998),2433643000,,drinking_water,,,,,,,,,,,
+POINT (36.772257767526057 -1.311024350341417),2433611748,,drinking_water,,C.D.F,,,,,,,,,
+POINT (36.772346790570715 -1.311109218912086),2433642993,,drinking_water,,Kwa songi,,,,,,,,,
+POINT (36.77241551168995 -1.311050125240955),2433642992,,drinking_water,,,,,,,,,,,
+POINT (36.772481897189451 -1.310982589615105),2433655010,,drinking_water,,Mama songi,,,,,,,,,
+POINT (36.772467973302547 -1.310914604947361),2433642989,,drinking_water,,,,,,,,,,,
+POINT (36.77186017318131 -1.310290349345138),769114199,yes,drinking_water,,St Secilia SH Academy Water Tank,,operational,,,,,yes,07:00-18:00,private
+POINT (36.772251389487543 -1.31071945211936),2433611757,,drinking_water,,Kwa mama eliud,,,,,,,,,
+POINT (36.772300976491231 -1.310511097495596),2433611754,,drinking_water,,Kwa chalie,,,,,,,,,
+POINT (36.772085290991505 -1.310284422014542),2433581168,,drinking_water,,Gideon,,,,,,,,,
+POINT (36.772175481846034 -1.310173419275455),2433581180,,drinking_water,,P.C anyango,,,,,,,,,
+POINT (36.772799451642385 -1.31083332869088),2433642987,,drinking_water,,,,,,,,,,,
+POINT (36.773823261571692 -1.311232345690436),2433642996,,drinking_water,,,,,,,,,,,
+POINT (36.773526278538768 -1.311042491559935),2433642991,,drinking_water,,,,,,,,,,,
+POINT (36.77338668034362 -1.310918017652001),2433642979,,drinking_water,,kwaho water point,,,,,,,,,
+POINT (36.772931503989142 -1.310643025489989),2433642983,,drinking_water,,,,,,,,,,,
+POINT (36.773076042918362 -1.310574232540759),2433655013,,drinking_water,,,,,,,,,,,
+POINT (36.772630478537444 -1.310175574668497),2433581171,,drinking_water,,Mama akoth,,,,,,,,,
+POINT (36.772659044963476 -1.310193177044922),2433581172,,drinking_water,,Mama akoth,,,,,,,,,
+POINT (36.772959980583657 -1.310321602542565),2433581184,,drinking_water,,Victor,,,,,,,,,
+POINT (36.773261994182171 -1.31030911922525),2433655009,,drinking_water,,Kwa mzee,,,,,,,,,
+POINT (36.773016215120442 -1.310221556386215),2433581177,,drinking_water,,Mama mboga,,,,,,,,,
+POINT (36.773560414519565 -1.310698975889854),612009063,yes,drinking_water,,,,operational,3sh per 20litre can,,,,yes,24/7,private
+POINT (36.773611259164639 -1.310720080775534),2433642984,,drinking_water,,,,,,,,,,,
+POINT (36.773585297852932 -1.310328876993623),2433642981,,drinking_water,,,,,,,,,,,
+POINT (36.774129856578163 -1.312743275116238),2444298684,,drinking_water,,,,,,,,,,,
+POINT (36.774400878299382 -1.312468462770752),2444298677,,drinking_water,,,,,,,,,,,
+POINT (36.774784908083348 -1.31281134954225),769111497,yes,drinking_water,,Area D Watertank (Motu Project),,operational,KShs 3 per 20L,,,,yes,06:00-20:00,ngo_cbo
+POINT (36.774205584556611 -1.312107524549526),2433643007,,drinking_water,,,,,,,,,,,
+POINT (36.774280593882835 -1.312041246263885),2433643009,,drinking_water,,,,,,,,,,,
+POINT (36.774482445327187 -1.312013046559176),2433643005,,drinking_water,,,,,,,,,,,
+POINT (36.774573983654641 -1.311515600123284),2433642998,,drinking_water,,,,,,,,,,,
+POINT (36.775008678420626 -1.311902223512688),1809764829,,drinking_water,water_tower,Community Water Point (mama mercy),,,,,,,,,
+POINT (36.775007510610749 -1.311847889683414),769106827,yes,drinking_water,,Bombolulu water tank,,operational,KShs 5 per 20L,,,,yes,08:00-19:00,private
+POINT (36.775093299720389 -1.312032085850297),769107214,yes,drinking_water,,Ma Brick General Shop Water Tank,,operational,3 per can,,,,yes,09:00-21:00,private
+POINT (36.775059253571115 -1.311983409926476),2438933696,,drinking_water,,Mama phenix,,,,,,,,,
+POINT (36.774698400321483 -1.311736437973704),2433643003,,drinking_water,,kengo water point,,,,,,,,,
+POINT (36.775091682752873 -1.311771014048548),2438933698,,drinking_water,,Orthodox church,,,,,,,,,
+POINT (36.775689242079871 -1.312811978197903),2438933688,,drinking_water,,Gladys kwamboka,,,,,,,,,
+POINT (36.775447415605385 -1.312473312400635),2438933695,,drinking_water,,Mama maureen,,,,,,,,,
+POINT (36.776538689012533 -1.312629847671417),2433443536,,drinking_water,,John chomba,,,,,,,,,
+POINT (36.776152054114249 -1.312231459550496),2438933690,,drinking_water,,Kwa jaramba,,,,,,,,,
+POINT (36.776649091960948 -1.312489747257419),2433443573,,drinking_water,,,,,,,,,,,
+POINT (36.775675228361436 -1.311690995131743),2438933692,,drinking_water,,Kwa kevo,,,,,,,,,
+POINT (36.776050364824087 -1.311788346989792),2438933691,,drinking_water,,Kwa kama,,,,,,,,,
+POINT (36.774216184676966 -1.311250756331477),769105841,yes,drinking_water,,,,operational,3sh per 20litre can,,,,yes,08:00-20:00,private
+POINT (36.774215196530157 -1.311250576715465),769135341,yes,drinking_water,,Wa Getto Water Tank,,operational,3sh per 20litre can,,,,yes,24/7,ngo_cbo
+POINT (36.774242325651741 -1.311203158088535),2433642994,,drinking_water,,,,,,,,,,,
+POINT (36.774530325531828 -1.311259916747928),2433642995,,drinking_water,,bombolulu,,,,,,,,,
+POINT (36.77406409989937 -1.310664309992176),2433643011,,drinking_water,,pefa water point,,,,,,,,,
+POINT (36.776067522646009 -1.31130805383781),2438933693,,drinking_water,,Kwa njoro,,,,,,,,,
+POINT (36.776485778242296 -1.311133107842568),941479914,yes,drinking_water,,Ayany Point Water Place,,operational,KShs 5 per 20L,,,,yes,06:00-20:00,private
+POINT (36.772017198692971 -1.310050292445033),2433581166,,drinking_water,,Christine awino,,,,,,,,,
+POINT (36.772198478717314 -1.310047059355323),2433581178,,drinking_water,,Mama nancy,,,,,,,,,
+POINT (36.772120504950642 -1.309922944630101),2433581161,,drinking_water,,Ager midamba,,,,,,,,,
+POINT (36.772160120654682 -1.309859091104098),2433581181,,drinking_water,,Paul ogambo,,,,,,,,,
+POINT (36.772325949656128 -1.309998742625104),2433581183,,drinking_water,,Philo,,,,,,,,,
+POINT (36.772480998874165 -1.309951413782523),2433581174,,drinking_water,,Mama davis,,,,,,,,,
+POINT (36.772405181064187 -1.309885494672024),2433581163,,drinking_water,,Baba samora,,,,,,,,,
+POINT (36.77197255242335 -1.309478574347902),769117102,yes,drinking_water,,Ujamii Water Tank,Agogo,operational,5sh per 20 litre can,,,,yes,07:00-20:00,private
+POINT (36.772170990269615 -1.3094942907598),2433621596,,drinking_water,,,,,,,,,,,
+POINT (36.77222381120832 -1.309486657074034),2433581169,,drinking_water,,Mama Jackia,,,,,,,,,
+POINT (36.771987823783185 -1.309290516245982),2433621554,,drinking_water,,Tujiinue youth group,,,,,,,,,
+POINT (36.772036063313941 -1.309133352109872),2433621556,,drinking_water,,Ushirika C.B.O,,,,,,,,,
+POINT (36.772498426190673 -1.309398824782044),2433621594,,drinking_water,,,,,,,,,,,
+POINT (36.772349216021979 -1.30916685052371),2433621591,,drinking_water,,,,,,,,,,,
+POINT (36.77253480795968 -1.309009955804092),2433621588,,drinking_water,,,,,,,,,,,
+POINT (36.772313822399788 -1.30890380264536),2433621586,,drinking_water,,,,,,,,,,,
+POINT (36.772359456816226 -1.308752835243515),2433621584,,drinking_water,,,,,,,,,,,
+POINT (36.772761273242814 -1.310069062326939),2433581164,,drinking_water,,Beatrice akinyi,,,,,,,,,
+POINT (36.773180427154379 -1.310047059355323),2433581173,,drinking_water,,Mama bella,,,,,,,,,
+POINT (36.772951985577627 -1.309632684988253),2433581175,public,drinking_water,,Mama dinda,,,,,,,,,
+POINT (36.773265767106373 -1.309751231628223),2433581179,,drinking_water,,Mto,,,,,,,,,
+POINT (36.773224444603308 -1.309481897246438),2433581167,,drinking_water,,Gachanja,,,,,,,,,
+POINT (36.772664255192126 -1.30912284456441),2433621590,,drinking_water,,,,,,,,,,,
+POINT (36.773189050981109 -1.309387688581222),2433581185,,drinking_water,,Vision sisters,,,,,,,,,
+POINT (36.773202525710367 -1.309306502083277),769126670,yes,drinking_water,,Community Water Tank,,operational,3sh per 20litre can,,,,yes,24/7,private
+POINT (36.772841313134627 -1.309010135420257),2433621589,,drinking_water,,,,,,,,,,,
+POINT (36.772781754831286 -1.308829261930531),769122353,yes,drinking_water,,Fredy's Water Point,,operational,3sh per 20litre can,,,,yes,07:00-20:00,private
+POINT (36.773011274386384 -1.309018936612585),769119678,yes,drinking_water,,,,operational,5 per 20litre can,,,,yes,,private
+POINT (36.773079546347972 -1.30901992450152),769120130,yes,drinking_water,,St Collins Nursery Water Tank,,closed,,,,,yes,,private
+POINT (36.773162101522587 -1.308862850156528),769127696,yes,drinking_water,,42 Techno Tank Water Place,,operational,5sh per 20 litre can,,,,yes,06:00-20:00,private
+POINT (36.77234589225543 -1.30860330476218),2433621580,,drinking_water,,,,,,,,,,,
+POINT (36.772607751160756 -1.3086916759306),2433621582,,drinking_water,,,,,,,,,,,
+POINT (36.772205844902643 -1.308064725531187),2433621562,,drinking_water,,,,,,,,,,,
+POINT (36.772227314637931 -1.30798048551429),5397994530,,drinking_water,,,,,,,,,,,
+POINT (36.772602091774459 -1.308044877936838),2433621560,,drinking_water,,,,,,,,,,,
+POINT (36.77278831253286 -1.308617314825663),2433621578,,drinking_water,,,,,,,,,,,
+POINT (36.772745193399224 -1.308319062110904),2433621570,,drinking_water,,,,,,,,,,,
+POINT (36.772749595144113 -1.307842630043429),769123028,yes,drinking_water,,Ushirika Funza Clinic Water Tank,,operational,3sh per 20litre can,,,,yes,06:00-20:30,ngo_cbo
+POINT (36.776911759350028 -1.31166090945528),2429056287,,drinking_water,,,,,,,,,,,
+POINT (36.781726908935958 -1.311793376236971),772458375,private,drinking_water,,,,operational,none,,,yes,,,faith_based_organization
+POINT (36.781156748225129 -1.310452632466594),775536063,yes,drinking_water,,,,operational,5sh per 20 litre can,,,,yes,24/7,private
+POINT (36.780621801473444 -1.309219298441533),772458370,yes,drinking_water,,Kibera zulu Football Club,,operational,2/= per 20lit,,,,yes,06:00-19:00,ngo_cbo
+POINT (36.783015362547978 -1.316523827765168),1367567693,,drinking_water,,WSUP (Charles Kyalo),,operational,KShs 3 per 20L can,,Water Kiosk,,yes,06:00-21:00,Individual
+POINT (36.782960924641756 -1.316453328629301),612009093,yes,drinking_water,water_tower,,,,,,,,yes,,
+POINT (36.782383307914067 -1.316289249741049),2452608394,,drinking_water,,Mama mercy,,,,,,,,,
+POINT (36.782408909899665 -1.315913942818113),2452608398,,drinking_water,,Mwangi,,,,,,,,,
+POINT (36.78342750960033 -1.315672718956045),2452885353,,drinking_water,,,,,,,,,,,
+POINT (36.783759796423922 -1.316214619438543),2452885365,,drinking_water,,,,,,,,,,,
+POINT (36.783914306652797 -1.315929659189541),2452885360,,drinking_water,,,,,,,,,,,
+POINT (36.784708058037843 -1.315761089874716),2452885356,,drinking_water,,,,,,,,,,,
+POINT (36.785081218206862 -1.315728220204111),2452885354,,drinking_water,,,,,,,,,,,
+POINT (36.782331654785231 -1.315306841765547),2452590934,,drinking_water,,,,,,,,,,,
+POINT (36.782440620429199 -1.315103157533173),769145314,private,drinking_water,,,,,2,,,yes,,06:00-19:00,private
+POINT (36.78329168432937 -1.315458976273955),2452885342,,drinking_water,,,,,,,,,,,
+POINT (36.783050486675585 -1.315021432373536),2452885321,,drinking_water,,,,,,,,,,,
+POINT (36.7830970194073 -1.314990448658464),2452885319,,drinking_water,,,,,,,,,,,
+POINT (36.78337971922722 -1.31496808649864),2452885316,,drinking_water,,,,,,,,,,,
+POINT (36.782516528070701 -1.314633192924757),2452590899,,drinking_water,,,,,,,,,,,
+POINT (36.782811714473063 -1.314640287747513),2452885309,,drinking_water,,,,,,,,,,,
+POINT (36.782671846783323 -1.314483393371116),769145318,private,drinking_water,,,,,3,,,yes,,06:00-19:00,private
+POINT (36.782831207914732 -1.314376791405114),2456557485,,drinking_water,,,,,,,,,,,
+POINT (36.78328764191059 -1.314664805299425),2452885310,,drinking_water,,,,,,,,,,,
+POINT (36.783834176929453 -1.315581025143826),2452885352,,drinking_water,,,,,,,,,,,
+POINT (36.783715599311947 -1.315358391476052),2452885340,,drinking_water,,,,,,,,,,,
+POINT (36.784263571635258 -1.315179494218329),2452885328,,drinking_water,,,,,,,,,,,
+POINT (36.784934882647086 -1.315026910653549),2452885322,,drinking_water,,,,,,,,,,,
+POINT (36.784285221033606 -1.314750212593782),769145322,private,drinking_water,,,,operational,2,,,yes,,08:00-18:00,private
+POINT (36.784260697026355 -1.314693903053035),844847399,yes,drinking_water,,CDF Mama Okinda,,,,,,,yes,,
+POINT (36.783863192513124 -1.314343562484713),2456557481,,drinking_water,,,,,,,,,,,
+POINT (36.784241293416208 -1.314541319458562),612009097,yes,drinking_water,water_tower,,,,,,,,yes,,
+POINT (36.784714076750248 -1.314896509624338),769145315,private,drinking_water,,CDF Mama Okinda,,,,,,yes,,,government
+POINT (36.784668891491457 -1.314824304092831),2456557517,,drinking_water,,,,,,,,,,,
+POINT (36.784686678134079 -1.314757756455607),612008830,yes,drinking_water,water_tower,,,,,,,,yes,,
+POINT (36.784909370493011 -1.314734226791282),612008837,yes,drinking_water,water_tower,,,,,,,,yes,,
+POINT (36.784378466160099 -1.314449805220575),2456557492,,drinking_water,,,,,,,,,,,
+POINT (36.784358164234682 -1.314365206186966),1367567690,,drinking_water,,WSUP (Francis Onyango),,operational,KShs 3 per 20L can,,water_kiosk,,yes,06:00-21:00,Individual
+POINT (36.784608884030476 -1.314396998180827),612009098,yes,drinking_water,water_tower,,,,,,,,yes,,
+POINT (36.784584180360163 -1.314306292208587),2456557480,,drinking_water,,,,,,,,,,,
+POINT (36.782423372775746 -1.313896678366214),2456557465,,drinking_water,,,,,,,,,,,
+POINT (36.78244358486964 -1.313902515880337),2456557466,,drinking_water,,,,,,,,,,,
+POINT (36.782325725904357 -1.313614681513963),1377422271,,drinking_water,,Vision Brother Youth Group (KWAHO),,operational,,public_community,,,yes,07:00-19:00,ngo_self_help
+POINT (36.783322945701258 -1.313573190254675),2456557452,,drinking_water,,,,,,,,,,,
+POINT (36.783930566159441 -1.313836417258111),2456557463,,drinking_water,,,,,,,,,,,
+POINT (36.784887002442446 -1.314223579135982),2456557475,,drinking_water,,,,,,,,,,,
+POINT (36.784788726750364 -1.313940055586212),2456557467,,drinking_water,,,,,,,,,,,
+POINT (36.783856814474611 -1.31355118731386),773549070,yes,drinking_water,,,,operational,shs 3 per 20lit,,,,yes,07:00-19:00,private
+POINT (36.783906311646767 -1.313484010987244),773549073,yes,drinking_water,,,,operational,shs 3 per 20lit,,,,yes,07:00-20:00,private
+POINT (36.784819359301544 -1.313383426109776),1377422295,,drinking_water,,Kisumu Ndogo Sodis Women Group (KWAHO),,non_operational,,public_community,water_tank,,,,
+POINT (36.784846668086182 -1.313256976543814),1367567692,,drinking_water,,WSUP (Ogembo),,non_operational,,,Water Kiosk,,,,Individual
+POINT (36.784444582165015 -1.312977224817938),1367652454,,drinking_water,,WSUP (Ogembo Water Tank),,non_operational,,public_community,water_tank,yes,,,private
+POINT (36.785439825668291 -1.315390003841535),612009375,yes,drinking_water,water_tower,,,,,,,,yes,,
+POINT (36.785532352142553 -1.315358391476052),2452885341,,drinking_water,,,,,,,,,,,
+POINT (36.785439556173699 -1.315254753206829),2452885334,,drinking_water,,,,,,,,,,,
+POINT (36.785538550518012 -1.31511070139393),2452885324,,drinking_water,,,,,,,,,,,
+POINT (36.786174647570697 -1.315548335086548),2452885366,,drinking_water,,shofco,,,,,,,,,
+POINT (36.786184798533405 -1.315326958725868),2452885338,,drinking_water,,,,,,,,,,,
+POINT (36.786195757979876 -1.315316451206435),2452885308,,drinking_water,,kwaho,,,,,,,,,
+POINT (36.785993098051776 -1.31500095617927),769145316,private,drinking_water,,Jack's Tank,,operational,2,,,yes,,07:00-20:00,private
+POINT (36.786182103587556 -1.315265530150107),1377422287,,drinking_water,,Mama Okinda (kWAHO),,operational,,public_community,water_tank,,yes,08:00-21:00,cbo
+POINT (36.786252621337361 -1.315239216446858),612008846,yes,drinking_water,water_tower,,,,,,,,yes,,
+POINT (36.786046547811182 -1.314972397276455),1367567684,,drinking_water,,WSUP (Jack Ouma),,operational,KShs 3 per 20L can,,Water Kiosk,,yes,06:00-20:00,Individual
+POINT (36.786047895284106 -1.314942940294613),2452885314,,drinking_water,,,,,,,,,,,
+POINT (36.786344069833284 -1.314933959507379),2456557530,,drinking_water,,,,,,,,,,,
+POINT (36.785377213092985 -1.314412085906576),2456557490,,drinking_water,,,,,,,,,,,
+POINT (36.785402725247053 -1.314368888310579),612009382,yes,drinking_water,water_tower,,,,,,,,yes,,
+POINT (36.78643560816073 -1.315348063572465),612009385,yes,drinking_water,water_tower,,,,,,,,yes,,
+POINT (36.786574847029769 -1.315333155468096),2126109316,yes,drinking_water,water_tower,,,,,,,,yes,,
+POINT (36.786364012432593 -1.314987484998744),2452885317,,drinking_water,,,,,,,,,,,
+POINT (36.786743730303186 -1.315134231054718),612008467,yes,drinking_water,water_tower,Mama Wambui's Water Point,,,,,,,yes,,
+POINT (36.786885843781135 -1.315247119538646),2452885332,,drinking_water,,,,,,,,,,,
+POINT (36.787375245947921 -1.315169256121864),2452885327,,drinking_water,,,,,,,,,,,
+POINT (36.787183725129346 -1.31506049879633),2456557535,,drinking_water,,,,,,,,,,,
+POINT (36.787685883373172 -1.314957938209195),2456557532,,drinking_water,,,,,,,,,,,
+POINT (36.787150577295364 -1.314898754821181),1377422299,,drinking_water,,Uyoma women group (KWAHO),,operational,,public_community,water_tank,,yes,08:00-18:00,
+POINT (36.79105240973194 -1.316314036700229),612008896,private,drinking_water,,,,operational,3 per 20 litre can,,,yes,,Mo-Su 07:00-19:00,private
+POINT (36.790532195350899 -1.315682238587675),612008897,private,drinking_water,,Water tanks (Lindi),,operational,3ksh per 20litres,,,yes,,Mo-Su 06:00-18:00,private
+POINT (36.791250218757504 -1.315990279478473),612008898,private,drinking_water,,,,operational,3 per 20 litre can,,,yes,,Mo-Su 07:00-19:00,private
+POINT (36.791676559191345 -1.315981657926354),612008899,private,drinking_water,,,,operational,3 per 20 litre can,,,yes,,Mo-Su 07:00-19:00,private
+POINT (36.791291181934454 -1.31583787557894),612008900,private,drinking_water,,,,operational,3 per 20 litre can,,,yes,,Mo-Su 07:00-19:00,private
+POINT (36.79136870654348 -1.315753725631612),612008376,private,drinking_water,,Water tank (Lindi),,operational,3ksh per 20litres,,,yes,,Mo-Su 07:00-19:00,private
+POINT (36.793201449386139 -1.316633662720641),941480025,private,drinking_water,,Water point/tank (Lindi),,operational,3 per 20 litre can,,,yes,,Mo-Su 07:00-19:00,private
+POINT (36.791923506062943 -1.316193514599287),612008901,private,drinking_water,,,,operational,3 per 20 litre can,,,yes,,Mo-Su 07:00-19:00,private
+POINT (36.792306278205508 -1.316167021290166),612008902,private,drinking_water,,,,operational,3 per 20 litre can,,,yes,,Mo-Su 07:00-19:00,private
+POINT (36.793085297219903 -1.315933790350021),612009175,private,drinking_water,,,,operational,3 per 20 litre can,,,yes,,Mo-Su 07:00-19:00,private
+POINT (36.793008581094639 -1.315731632902173),1771323221,,drinking_water,,Water tank,,,,,,,,,
+POINT (36.793100478748201 -1.315663199324377),1377422298,,drinking_water,,Anwa Junior Academy (KWAHO),,operational,,,water_tank,,yes,24/7,
+POINT (36.787870666827111 -1.315423951210868),2452885346,,drinking_water,,,,,,,,,,,
+POINT (36.788050599378529 -1.314989281156151),2452885318,,drinking_water,,,,,,,,,,,
+POINT (36.788046287465157 -1.314919500439903),612889966,yes,drinking_water,water_tower,Baba Mwangi's Water Point,,,,,,,yes,,
+POINT (36.788140880064574 -1.313661202015989),1377422300,,drinking_water,,Gotafogo Youth Group (KWAHO),,operational,,,water_tank,,yes,06:00-21:00,other
+POINT (36.790261712618857 -1.313362321246589),769064963,private,drinking_water,,,,operational,shs 3 per 20lit,,,yes,,06:00-20:00,private
+POINT (36.790489525374909 -1.315297052708914),612008907,private,drinking_water,,,,operational,3 per 20 litre can,,,yes,,Mo-Su 07:00-19:00,private
+POINT (36.791364484461639 -1.315212543511892),612008378,private,drinking_water,,,,operational,3 per 20 litre can,,,yes,,Mo-Su 06:00-19:00,private
+POINT (36.790685627601434 -1.31486965706995),5295839523,private,drinking_water,,St Augustus Water Tank,,operational,3ksh per 20litres,,,yes,,Mo-Su 06:00-19:30,private
+POINT (36.792549991142096 -1.315087441156529),612009177,private,drinking_water,,,,operational,3 per 20 litre can,,,yes,,Mo-Su 07:00-19:00,private
+POINT (36.792271243909425 -1.314532518285687),612008672,private,drinking_water,,,,operational,3 per 20 litre can,,,yes,,Mo-Su 07:00-19:00,private
+POINT (36.792875989758706 -1.314771856292523),612008383,private,drinking_water,,,,operational,3 per 20 litre can,,,yes,,Mo-Su 07:00-19:00,private
+POINT (36.791429881814331 -1.313833543404928),1771323220,,drinking_water,,Water tank,,,,,,,,,
+POINT (36.791432486928642 -1.313812887585097),941479944,private,drinking_water,,Water point/tank (Lindi),,operational,3ksh per 20litres,,,yes,,Mo-Su 07:00-19:00,private
+POINT (36.790598760513461 -1.313415307924065),769064957,private,drinking_water,,,,operational,shs 3 per 20lit,,,yes,,07:00-17:00,private
+POINT (36.790629123570056 -1.313404081933156),769064949,private,drinking_water,,,,operational,shs 3 per 20lit,,,yes,,06:00-19:00,private
+POINT (36.790656701849279 -1.313314453620041),769064959,private,drinking_water,,,,operational,shs 3 per 20lit,,,yes,,06:00-20:00,private
+POINT (36.790788394869935 -1.313278979487212),769064941,private,drinking_water,,,,operational,shs:3 per 20 lit,,,yes,,06:00-20:00,private
+POINT (36.790784352451155 -1.313251408451985),769064960,private,drinking_water,,,,operational,KShs 3 per 20L,,,yes,,06:00-20:00,private
+POINT (36.79095467302902 -1.313499008910592),2126109300,yes,drinking_water,,Lindi ODM (Water Tank),,operational,3ksh per 20litres,,,,yes,Mo-Su 06:00-19:00,ngo_self_help
+POINT (36.791142510754931 -1.31307763009587),612010597,yes,drinking_water,water_tower,,,,,,,,yes,,
+POINT (36.791578014004678 -1.313546427493987),612009180,private,drinking_water,,,,operational,3 per 20 litre can,,,yes,,Mo-Su 07:00-19:00,private
+POINT (36.792271243909425 -1.313742029141),612008674,private,drinking_water,,,,operational,3 per 20 litre can,,,yes,,Mo-Su 07:00-19:00,private
+POINT (36.79192054162251 -1.313325859227203),1771323219,,drinking_water,,Water Tank,,,,,,,,,
+POINT (36.791951084342166 -1.313263801946682),612008675,private,drinking_water,,,,operational,3 per 20 litre can,,,yes,,Mo-Su 07:00-19:00,private
+POINT (36.793186447520895 -1.313510414516902),1771323239,,drinking_water,,water tank Sodis,,,,,,,,,
+POINT (36.793154826822892 -1.313490836389488),941480128,private,drinking_water,,,,operational,,,,yes,,Mo-Su 07:00-19:00,ngo_cbo
+POINT (36.784864095402696 -1.312754860341905),773549077,yes,drinking_water,,,,operational,shs 3 per 20lit,,,,yes,06:00-20:30,private
+POINT (36.785540347148583 -1.312701694034537),773549072,yes,drinking_water,,,,operational,shs 5 per 20lit,,,,yes,06:00-20:30,private
+POINT (36.785971358821904 -1.31239760428854),769097871,private,drinking_water,,,,operational,shs 3 per 20lit,,,yes,,06:00-18:00,private
+POINT (36.786273462251948 -1.311702490554283),775529740,yes,drinking_water,,Kibera Water and Sanitation Tank,,operational,3sh per 20litre can,,,,yes,06:00-21:00,ngo_cbo
+POINT (36.786755228738819 -1.312798147773776),1367652456,,drinking_water,,,,operational,,public_community,water_tank,no,yes,,private
+POINT (36.78699382127828 -1.312179191311723),769097862,private,drinking_water,,,,operational,shs 3 per 20lit,,,yes,,08:00-20:00,private
+POINT (36.787365813637443 -1.311975506824358),769097858,private,drinking_water,,,,operational,shs 5 per 20lit,,,yes,,06:00-19:00,private
+POINT (36.785903086860309 -1.311112002960386),612009704,yes,drinking_water,,,,,,,,,yes,,
+POINT (36.787120124407231 -1.311190225735587),775524383,yes,drinking_water,,Youth Reform Water Tank,,operational,3sh per 20litre can,,,,yes,06:00-21:00,ngo_cbo
+POINT (36.787702142879816 -1.310570730027624),2127249006,yes,drinking_water,,,,,,,,,yes,,
+POINT (36.787063261049745 -1.310333996051779),612009707,yes,drinking_water,,,,,,,,,yes,,
+POINT (36.783766893114674 -1.307618917989583),769076788,yes,drinking_water,,Community water tank,,operational,3sh per 20litre can,,,,yes,06:00-19:00,private
+POINT (36.78633068493555 -1.309544852701378),772551862,yes,drinking_water,,,,operational,2,,,,yes,06:00-17:00,private
+POINT (36.785494622900622 -1.308899222432835),612008922,yes,drinking_water,,,,,,,,,yes,,
+POINT (36.785599815620394 -1.308896528190155),772551882,private,drinking_water,,,,operational,2,,,yes,,07:00-18:00,private
+POINT (36.785699618448454 -1.309350238615117),772551854,yes,drinking_water,,,,operational,2,,,,yes,07:00-20:00,private
+POINT (36.785684796246272 -1.309233398309656),772551523,private,drinking_water,,,,operational,2,,,yes,,07:00-17:00,private
+POINT (36.78570114558444 -1.309219837289987),612008923,yes,drinking_water,,,,,,,,,yes,,
+POINT (36.785997769291257 -1.308178781839541),612007432,private,drinking_water,,,,operational,2 shillings per gerican,,,yes,,08:00-21:00,private
+POINT (36.786119580843781 -1.308078196748989),769075667,yes,drinking_water,,,,operational,,,,,yes,05:30-20:30,ngo_cbo
+POINT (36.786198722420309 -1.307509082638296),941480290,yes,drinking_water,,,,operational,,,,,yes,06:00-21:00,private
+POINT (36.788733049499868 -1.312231190126587),769097851,private,drinking_water,,,,operational,shs 3 per 20lit,,,yes,,07:00-19:00,private
+POINT (36.78775819775354 -1.311950180974244),769097856,private,drinking_water,,,,operational,shs 3 per 20lit,,,yes,,08:00-20:00,private
+POINT (36.788381808223775 -1.311841962356508),769097870,private,drinking_water,,,,operational,shs 3 per 20lit,,,yes,,06:00-20:00,private
+POINT (36.787861683674272 -1.311806218778829),769097867,yes,drinking_water,,,,operational,shs 5 per 20lit,,,,yes,06:00-19:00,private
+POINT (36.788793865444603 -1.311879951133231),1377422296,,drinking_water,,CHW - Kisumu Ndogo (KWAHO),,operational,,public_community,water_tank,,yes,,
+POINT (36.788464722724505 -1.311541015785787),769097868,yes,drinking_water,,,,operational,shs 3 per 20lit,,,,yes,06:00-20:00,ngo_cbo
+POINT (36.788796560390459 -1.311712998088919),941480361,private,drinking_water,,,,operational,shs 3 per 20lit,,,yes,,06:00-20:00,private
+POINT (36.789637473327922 -1.312862629880422),769097872,private,drinking_water,,,,operational,shs 3 per 20lit,,,yes,,07:00-19:00,private
+POINT (36.789147172845844 -1.312508337505108),1377422297,,drinking_water,,CHW - Lindi,,,,public_community,water_tank,,yes,,
+POINT (36.7901739472156 -1.312225981264363),612007474,yes,drinking_water,water_tower,Kibera Water & Sanitation Project,,,,,,,yes,,
+POINT (36.789942541198407 -1.312059207859089),612007477,yes,drinking_water,water_tower,,,,,,,,yes,,
+POINT (36.789835102690425 -1.311673482573839),612008533,yes,drinking_water,water_tower,,,,,,,,yes,,
+POINT (36.787913696129223 -1.311268807740342),769097852,private,drinking_water,,,,operational,shs 3 per 20lit,,,yes,,06:00-20:00,private
+POINT (36.787747597633192 -1.310955826826707),773538275,yes,drinking_water,,,,operational,shs 3 per 20lit,,,,yes,06:00-20:00,private
+POINT (36.787784787885954 -1.310934721943037),612007440,yes,drinking_water,,,,,,,,,yes,,
+POINT (36.788768263459012 -1.311216449673443),773538293,yes,drinking_water,,,,operational,shs 3 per 20lit,,,,yes,06:00-19:00,private
+POINT (36.789243023086662 -1.311092335006196),773538285,yes,drinking_water,,,,operational,shs 3 per 20lit,,,,yes,08:00-19:00,private
+POINT (36.789585820199086 -1.310879400204537),773538283,yes,drinking_water,,,,operational,shs 3 per 20lit,,,,yes,07:00-18:00,ngo_cbo
+POINT (36.789689306119811 -1.310869431514513),773538290,yes,drinking_water,,,,operational,shs 3 per 20lit,,,,yes,08:00-20:00,private
+POINT (36.789178344386208 -1.310583841999828),773538291,yes,drinking_water,,,,operational,shs 5 per 20lit,,,,yes,08:00-16:00,private
+POINT (36.789898613581009 -1.310670057705806),941480031,private,drinking_water,,,,operational,,,,yes,,24/7,private
+POINT (36.790417570320649 -1.310267448295055),1377422279,,drinking_water,,Makina - KWAHO Women Group,,operational,,public_community,water_tank,,yes,08:00-19:00,
+POINT (36.791473809431722 -1.312244391898076),773538287,yes,drinking_water,,,,operational,shs 3 per 20lit,,,,yes,06:00-19:00,private
+POINT (36.79097758006877 -1.311569395111825),773538295,yes,drinking_water,,,,operational,shs 5 per 20lit,,,,yes,08:00-19:00,private
+POINT (36.791272317313492 -1.311910755270891),773538294,yes,drinking_water,,,,operational,shs 3 per 20lit,,,,yes,07:00-19:00,private
+POINT (36.791345979166785 -1.31182651538329),773538280,yes,drinking_water,,,,operational,shs 3 per 20lit,,,,yes,06:00-20:00,private
+POINT (36.791334390899621 -1.311810888794036),795719675,private,drinking_water,,Marita Water Tank,,operational,3ksh per 20litres,,,yes,,Mo-Su 07:00-20:00,private
+POINT (36.792518370444093 -1.312306449203901),1771323216,,drinking_water,,Mkuu c.b.o,,,,,,,,,
+POINT (36.792768820745302 -1.312702412498164),612008606,yes,drinking_water,water_tower,Mashimoni Community Water Tank,,,,,,,yes,,
+POINT (36.792841314788731 -1.312623920346368),941480428,yes,drinking_water,,Mashimoni Ushirika Na Usafi,,operational,5ksh per person,,,,yes,Mo-Su 07:00-19:00,ngo_cbo
+POINT (36.791966894691171 -1.312130335774816),795719678,private,drinking_water,,Sairus Water Tank,,operational,3ksh per 20litres,,,yes,,Mo-Su 07:00-18:30,private
+POINT (36.790683022487109 -1.3113076946058),773538288,private,drinking_water,,Ali Water Tank,,operational,KShs 3 per 20L,,,yes,,Mo-Su 06:00-20:00,private
+POINT (36.790707366831306 -1.311248511131351),612009005,yes,drinking_water,water_tower,Community Water Tank,,,,,,,yes,,
+POINT (36.791189492644293 -1.311183400327045),612008695,yes,drinking_water,water_tower,,,,,,,,yes,,
+POINT (36.791529504979337 -1.31123638705069),612008693,yes,drinking_water,water_tower,,,,,,,,yes,,
+POINT (36.791557262921607 -1.311253450571613),612008694,yes,drinking_water,water_tower,,,,,,,,yes,,
+POINT (36.790804384881987 -1.310325374480144),795719691,yes,drinking_water,,Progressive Youth Group,,operational,3ksh per 20litres,,,,yes,Mo-Su 06:00-19:00,ngo_self_help
+POINT (36.792834307929517 -1.310266909446817),1377422251,,drinking_water,,Vision Mothers Group (KWAHO),,non_operational,,public_community,water_tank,,yes,,ngo_cbo
+POINT (36.788170883795068 -1.30975509337473),612008934,yes,drinking_water,,,,,,,,,yes,,
+POINT (36.787798801604382 -1.309299676669608),612008936,yes,drinking_water,,,,,,,,,yes,,
+POINT (36.787752358704196 -1.309094824443004),2127248999,yes,drinking_water,,,,,,,,,yes,,
+POINT (36.78821490124399 -1.309068331058682),2126109306,yes,drinking_water,,,,,,,,,yes,,
+POINT (36.790143045169827 -1.30969941237796),612008412,yes,drinking_water,,,,,,,,,yes,,
+POINT (36.790452784279786 -1.309273093479373),612008668,yes,drinking_water,water_tower,,,,,,,,yes,,
+POINT (36.790187062618742 -1.308497151586222),612009239,yes,drinking_water,,,,,,,,,yes,,
+POINT (36.789606391619095 -1.307418196800257),612009241,yes,drinking_water,,,,,,,,,yes,,
+POINT (36.790316420019657 -1.30777913569697),612009245,yes,drinking_water,,,,,,,,,yes,,
+POINT (36.79123449824003 -1.309714140899803),795850354,private,drinking_water,,Mashimoni School (water tank),,operational,3ksh per 20litres,,,yes,,Mo-Su 07:00-19:00,private
+POINT (36.791541362741086 -1.309588499421008),941479968,private,drinking_water,,Mashimoni-Friends,,operational,3ksh per 20litres,,,yes,,Mo-Su 07:00-19:00,faith_based_organization
+POINT (36.790751653774812 -1.309386341460149),612009249,yes,drinking_water,,,,,,,,,yes,,
+POINT (36.791173682295295 -1.309161282422783),612009251,,water_point,,,,,,,,,,,
+POINT (36.792673868819776 -1.309976560036765),1377422264,,drinking_water,,CHW - Mashimoni (KWAHO),,non_operational,,public_community,water_tank,,yes,,
+POINT (36.790471469237694 -1.308184978599453),612009256,yes,drinking_water,,,,,,,,,yes,,
+POINT (36.79418492495919 -1.317717014111231),612008384,yes,drinking_water,,Water point/tank (Lindi),,operational,3ksh per 20litres,,,,yes,Mo-Su 06:00-19:00,private
+POINT (36.794441393972804 -1.317312250449409),795850350,private,drinking_water,,Water Point/Tank (Lindi),,operational,3ksh per 20litres,,,yes,,Mo-Su 07:00-19:00,private
+POINT (36.794612163708322 -1.31780421745642),941480165,yes,drinking_water,,,,operational,,,,,yes,Mo-Su 06:00-21:00,ngo_cbo
+POINT (36.79550176533418 -1.318003590695566),941479938,yes,drinking_water,,,,operational,,,,,yes,Mo-Su 06:00-21:00,ngo_cbo
+POINT (36.794963943973578 -1.317481358506051),612009027,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,ngo_cbo
+POINT (36.795068687535704 -1.317086383855596),5295553254,yes,drinking_water,,,,operational,,,,,yes,Mo-Su 06:00-21:00,ngo_international
+POINT (36.79551155697078 -1.317142334111154),941480003,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,ngo_cbo
+POINT (36.793243400709905 -1.316632315603474),612009184,private,drinking_water,,Water tank (lindi),,operational,3ksh per 20litres,,,yes,,Mo-Su 06:00-19:00,private
+POINT (36.793860902636204 -1.316627915020726),612008388,private,drinking_water,,Water tank (Lindi),,operational,3ksh per 20litres,,,yes,,Mo-Su 07:00-19:00,private
+POINT (36.793659051191867 -1.315612996737884),795800078,private,drinking_water,,Water point/tank (Lindi),,operational,3ksh per 20litres,,,yes,,Mo-Su 06:00-19:00,private
+POINT (36.794160221288877 -1.315888257776572),612008678,private,drinking_water,,,,operational,3 per 20 litre can,,,yes,,Mo-Su 07:00-19:00,private
+POINT (36.794750144935961 -1.31692517885863),612011204,private,drinking_water,,,,operational,3 per 20 litre can,,,yes,,Mo-Su 07:00-19:00,private
+POINT (36.794764068822865 -1.316912156727504),5295458710,private,drinking_water,,Water point/tank (Lindi),,operational,3ksh per 20litres,,,yes,,Mo-Su 07:00-19:00,private
+POINT (36.796018925443249 -1.318326988424748),941479952,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,ngo_cbo
+POINT (36.796206942832214 -1.318332736120758),612009038,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,private
+POINT (36.796635259559686 -1.317863310967709),612009035,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,private
+POINT (36.796744404866708 -1.318346297090963),612009031,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,ngo_cbo
+POINT (36.79690439481881 -1.318208801422793),612009036,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,private
+POINT (36.796944998669652 -1.317947460843818),612009033,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,private
+POINT (36.797191496383611 -1.317887289641345),612009034,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,private
+POINT (36.79608297532301 -1.31745711040516),5293428978,yes,drinking_water,,,,,,,,,yes,Mo-Su 06:00-21:00,ngo_international
+POINT (36.796525215937379 -1.317113505809492),612008781,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,private
+POINT (36.797924970813092 -1.318040591493141),612009042,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,ngo_cbo
+POINT (36.798021090548495 -1.318264841460892),941480193,yes,drinking_water,,,,operational,ksh.3,,,,yes,Mo-Sa 08:30-16:00,ngo_cbo
+POINT (36.798048668827718 -1.318074628634126),612009041,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,private
+POINT (36.797634545481742 -1.317489890245196),941480201,yes,drinking_water,,,,closed,,,,,yes,Mo-Su 06:00-21:00,ngo_international
+POINT (36.797907812991163 -1.317407356893713),612008783,yes,drinking_water,,,,operational,Ksh.2,,,,yes,Mo-Su 06:00-21:00,ngo_cbo
+POINT (36.797792289645635 -1.317079738078765),612008784,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,private
+POINT (36.79818736870758 -1.31754188894944),612009044,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,private
+POINT (36.798025671956445 -1.317183376272151),612008785,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,private
+POINT (36.798261389887003 -1.316994779903168),612008787,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,ngo_cbo
+POINT (36.796000420148395 -1.316790377346184),612008788,private,drinking_water,,,,operational,Ksh.2,,,yes,,Mo-Su 06:00-21:00,private
+POINT (36.797316002881992 -1.316978345076053),612008789,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,private
+POINT (36.79794078116209 -1.316754454223738),612008790,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,other
+POINT (36.798527920031795 -1.316337207118371),612008792,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,private
+POINT (36.793571375620139 -1.315228978350648),612008396,private,drinking_water,,,,operational,3 per 20 litre can,,,yes,,Mo-Su 07:00-19:00,private
+POINT (36.793397551612657 -1.314527309428233),612008397,private,drinking_water,,Water tank (Lindi),,operational,3ksh per 20litres,,,yes,,Mo-Su 06:00-19:00,private
+POINT (36.793458996378092 -1.314376611789332),1377422258,,drinking_water,,Burak Youth Group (KWAHO),,non_operational,,public_community,water_tank,,yes,,
+POINT (36.794033648665341 -1.314845588559435),612008399,private,drinking_water,,Water tank (Lindi),,operational,3ksh per 20litres,,,yes,,Mo-Su 07:00-19:00,private
+POINT (36.794900073756878 -1.315302441180458),612008679,private,drinking_water,,,,operational,3 per 20 litre can,,,yes,,Mo-Su 07:00-19:00,private
+POINT (36.795388757271439 -1.315514836758192),612008631,yes,drinking_water,,,,operational,Ksh.2,,,,yes,Mo-Su 06:00-21:00,ngo_international
+POINT (36.794644053900903 -1.314467856606349),612008400,private,drinking_water,,,,operational,3 per 20 litre can,,,yes,,Mo-Su 07:00-19:00,private
+POINT (36.795434481519401 -1.314687885925012),795850351,private,drinking_water,,Water Point/Tank (Lindi),,operational,3ksh per 20litres,,,yes,,Mo-Su 07:00-19:00,private
+POINT (36.793356408772652 -1.313946611563491),795719664,private,drinking_water,,Water point/tank (Lindi),,operational,3ksh per 20litres,,,yes,,Mo-Su 07:00-19:00,private
+POINT (36.795648100893963 -1.313685001114172),2117408689,,drinking_water,,Water tank,,operational,kshs 3,other,water_tank,,yes,Mo-Su 05:00-20:00,private
+POINT (36.796638673157766 -1.315073520937139),771235543,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Su 08:30-20:00,private
+POINT (36.797316182545046 -1.315610392310303),612008551,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,private
+POINT (36.797182603062296 -1.315350847616046),771235530,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Su 05:30-20:00,private
+POINT (36.796787074842698 -1.315215417363484),771235538,private,drinking_water,,,,operational,ksh 3 per 20 litres,other,water_tank,yes,,Mo-Su 05:30-20:00,private
+POINT (36.796377353241617 -1.314720845417191),771235526,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Su 08:30-20:00,private
+POINT (36.79744877388098 -1.315042716838435),2117408705,,drinking_water,,Water_tank+tap,,operational,ksh 3,other,water_tank,,yes,Mo-Su 05:00-20:00,private
+POINT (36.798575261247272 -1.315288880193701),941480143,yes,drinking_water,,,,operational,Ksh.2,,,,yes,Mo-Fr 06:00-21:00,
+POINT (36.797494947286587 -1.314876392660556),2117408698,,drinking_water,,Water tap,,operational,ksh 3,other,piped_tap,,yes,Mo-Su 05:00-20:00,private
+POINT (36.797569866781281 -1.31474230950043),771235547,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Su 05:30-20:00,private
+POINT (36.796333245961165 -1.313968255269192),2117408697,,drinking_water,,Water tap,,operational,ksh 3,other,piped_tap,,,Mo-Su 05:00-20:00,private
+POINT (36.796476796743562 -1.313836327450188),2117408688,,drinking_water,,Wate_tank+tap,,operational,ksh 3,other,water_tank,,,Mo-Su 05:00-20:00,private
+POINT (36.796531504144369 -1.313317776513476),771235537,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Su 08:30-20:00,private
+POINT (36.796562855347787 -1.313305293211109),2117408695,,drinking_water,,Water tap,,operational,ksh 3,other,piped_tap,,,Mo-Su 05:00-20:00,private
+POINT (36.796646488500734 -1.313521281275634),771235525,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Su 08:30-20:00,private
+POINT (36.797294083989051 -1.313532417458086),941480092,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Fr 05:00-20:00,private
+POINT (36.797084866359384 -1.313287152009003),612008565,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Fr 05:00-20:00,private
+POINT (36.797209013531649 -1.312976326738516),781274306,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Fr 05:00-20:00,private
+POINT (36.797556122557431 -1.314161521877763),771235563,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Fr 05:30-20:00,private
+POINT (36.798034655109284 -1.314167628814969),771218443,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Su 05:00-20:00,private
+POINT (36.79790547737143 -1.313153427995304),844676374,private,drinking_water,,,,operational,Ksh. 3 per 20 litres,,,yes,,Mo-Fr 05:30-20:00,private
+POINT (36.798354724845012 -1.313337175026378),1279097777,yes,drinking_water,,,,operational,ksh 3 per 20 litres,,,,,Mo-Su 05:00-20:00,private
+POINT (36.798541304929522 -1.313372200118752),771218440,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Su 05:00-20:00,private
+POINT (36.798175510945832 -1.312932231038238),844676398,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Fr 05:30-20:00,private
+POINT (36.79897348441272 -1.31826097972754),612008657,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,private
+POINT (36.798869549334341 -1.317869597511384),612008624,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,private
+POINT (36.799231390730789 -1.317902287538218),612009046,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,private
+POINT (36.799290769371069 -1.317840948833673),874841891,,drinking_water,,Silanga ACK Emmanuel Clinic and Lab,,operational,,,,,,,faith_based_organization
+POINT (36.799742711790508 -1.318172159858729),941480419,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,ngo_international
+POINT (36.799058105712483 -1.317659357520859),941479910,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,ngo_international
+POINT (36.799320503606978 -1.31746689945332),941479985,yes,drinking_water,,,,"bad, stinking",Ksh.3,,,,yes,Mo-Su 06:00-21:00,ngo_cbo
+POINT (36.799542207819094 -1.317462498872047),941480387,yes,drinking_water,,,,operational,,,,,yes,Mo-Su 06:00-21:00,ngo_international
+POINT (36.79939290781887 -1.317323476422722),612011529,yes,drinking_water,,,,operational,ksh 3,,,,yes,Mo-Su 06:00-21:00,private
+POINT (36.799453813595136 -1.317175203763121),612009052,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,private
+POINT (36.800820959626037 -1.317332008162402),712884573,yes,drinking_water,,New Nairobi Dam Community Group,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,ngo_cbo
+POINT (36.800863719433565 -1.317234746328274),612009054,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,ngo_cbo
+POINT (36.799353741272483 -1.316674255850954),612009056,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,private
+POINT (36.799475552825015 -1.316985350084347),612009059,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,private
+POINT (36.799719175930065 -1.316716734944585),612009058,yes,drinking_water,,,,operational,Ksh.3,,,,yes,Mo-Su 06:00-21:00,private
+POINT (36.80010078026276 -1.316842016833824),612009060,private,drinking_water,,,,operational,,,,yes,,Mo-Su 06:00-21:00,faith_based_organization
+POINT (36.802976556981811 -1.315662660477284),941480338,yes,drinking_water,,,,operational,ksh 3,,,,yes,Mo-Fr 05:00-20:00,private
+POINT (36.803043122144366 -1.31571178536865),795819299,yes,drinking_water,,,,operational,ksh 3 per 20 litres,,,,yes,Mo-Fr 05:00-20:00,private
+POINT (36.799826794101101 -1.31514132587605),769082381,yes,drinking_water,,,,operational,Ksh.2,,,,yes,Mo-Su 06:00-21:00,
+POINT (36.799328049455355 -1.314872890153439),2117408696,,drinking_water,,Water tap,,operational,ksh 3,other,piped_tap,,,Mo-Su 05:00-20:00,private
+POINT (36.799824727975952 -1.314625559254665),941480076,yes,drinking_water,,,UN-Habitat,operational,KShs 3,,,,yes,Mo-Su 06:00-21:00,private
+POINT (36.799598981345056 -1.314430227100528),795841808,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Su 05:00-20:00,private
+POINT (36.800176687904269 -1.314728119855463),769082378,yes,drinking_water,,,,operational,ksh 3,,,,yes,Mo-Su 06:00-21:00,ngo_self_help
+POINT (36.800358147591659 -1.314510784776987),769082387,private,drinking_water,,,,operational,Ksh.2,,,yes,,Mo-Su 06:00-21:00,individual
+POINT (36.799191056374532 -1.314185680202778),795842020,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Su 05:00-20:00,private
+POINT (36.799455071236537 -1.313420426975885),795764931,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Fr 05:00-20:00,private
+POINT (36.799491991994714 -1.313349388904798),795764949,yes,drinking_water,,,,,,,,,yes,Mo-Su 05:00-20:00,private
+POINT (36.799646861549697 -1.313202193704288),795764951,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Su 05:00-20:00,private
+POINT (36.801369291275464 -1.314143111258172),795764935,yes,drinking_water,,,,,,,,,yes,Mo-Su 05:00-20:00,private
+POINT (36.800483552405325 -1.313294426451448),795764963,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Su 05:00-20:00,private
+POINT (36.802284315223865 -1.31495075357947),844676382,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Fr 05:00-20:00,private
+POINT (36.802367948376819 -1.315040022602383),844676400,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Fr 05:00-20:00,private
+POINT (36.802589742420473 -1.315141595299641),844676390,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Fr 05:00-20:00,private
+POINT (36.801624412816153 -1.314450882915257),795764939,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Su 05:00-20:00,private
+POINT (36.803124150182995 -1.31555965087566),2117408701,,drinking_water,,Water tap,,operational,,other,piped_tap,,yes,Mo-Su 05:00-20:00,private
+POINT (36.804090647597178 -1.315059780333391),2117408699,,drinking_water,,Water tap,,operational,ksh 3,other,piped_tap,,yes,Mo-Su 05:00-20:00,private
+POINT (36.794205226884614 -1.312243763242296),1250967848,,drinking_water,,,,operational,Ksh 3 per 20 litres,other,water_tank,,yes,Mo-Su 05:00-20:00,private
+POINT (36.793555116113488 -1.311512097611472),795850348,private,drinking_water,,Mashimoni Youth Group,,operational,3ksh per 20litres,,,yes,,Mo-Su 06:00-19:00,ngo_self_help
+POINT (36.793775203358102 -1.311775594255845),612008961,private,drinking_water,,,,operational,ksh 3 per 20 litres,other,water_tank,no,yes,Mo-Su 05:00-20:00,private
+POINT (36.79387392820783 -1.311781880814838),2117408685,,drinking_water,,Ushirika water point,,operational,,other,water_tank,,yes,Mo-Su 05:00-20:00,ngo_cbo
+POINT (36.793876443490618 -1.311626782418855),2117408686,,drinking_water,,Wate_tank+tap,,,,other,water_tank,,yes,,private
+POINT (36.795270898306164 -1.312819881297361),2117408704,,drinking_water,,Water_tank+tap,,operational,ksh 3,other,water_tank,,,Mo-Su 05:00-20:00,private
+POINT (36.795637500773609 -1.312772732124047),771235549,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Su 05:00-20:00,private
+POINT (36.795840430196293 -1.312750998600029),2117408693,,drinking_water,,Water tap,,operational,ksh 3,other,piped_tap,,,Mo-Su 05:00-20:00,private
+POINT (36.795401782843065 -1.311549278121263),612008478,yes,drinking_water,,,,operational,ksh 3 per 20 litres,,,,yes,Mo-Fr 05:00-20:00,private
+POINT (36.794257059676504 -1.311456506461758),612011360,private,drinking_water,water_tap,,,operational,ksh 3 per 20 litres,other,piped_tap,no,yes,Mo-Fr 05:00-20:00,private
+POINT (36.794310958593556 -1.311395975870842),2117408691,,drinking_water,,Water tap,,operational,ksh 3,other,piped_tap,,yes,,private
+POINT (36.794729214189836 -1.311187890727398),612008745,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Fr 05:00-20:00,private
+POINT (36.794797216656846 -1.311145142115726),771207530,private,drinking_water,,,,operational,Ksh 3 per 20 litres,,,yes,,Mo-Su 08:30-20:00,private
+POINT (36.794838898486027 -1.311115954512807),612011365,yes,drinking_water,,,,operational,ksh 3 per 20 litres,,,,yes,Mo-Fr 05:00-20:00,private
+POINT (36.795388128450746 -1.311301408045598),2117408690,,drinking_water,,Water tap,,operational,ksh 3,,,,yes,,
+POINT (36.795947419546629 -1.311022643989173),771211973,private,drinking_water,,Water tank,,operational,Ksh 3 per 20 litres,,water_tank,no,yes,Mo-Su 05:00-20:00,private
+POINT (36.79600985245888 -1.312863527959894),2117408687,,drinking_water,,Wate_tank+tap,,operational,ksh 3,other,water_tank,,,Mo-Su 05:00-20:00,private
+POINT (36.79603877821102 -1.312668554899808),612008971,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Fr 05:00-20:00,private
+POINT (36.796038957874082 -1.312669363171383),771235523,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Su 08:30-20:00,private
+POINT (36.796260841749266 -1.312582159646773),771235583,yes,drinking_water,,Water_tank+tap,,operational,ksh 3 per 20 litres,other,water_tank,,yes,Mo-Su 08:30-20:00,private
+POINT (36.79630827279626 -1.312589434091266),612008969,private,drinking_water,,Water_tank+tap,,operational,ksh 3 per 20 litres,other,water_tank,yes,,Mo-Fr 05:00-20:00,private
+POINT (36.796490810461997 -1.312499356709134),2117408692,,drinking_water,,Water tap,,operational,ksh 3,other,piped_tap,,yes,Mo-Su 05:00-20:00,private
+POINT (36.796788422315629 -1.312261635028063),771235567,yes,drinking_water,,Water_tank+tap,,operational,ksh 3 per 20 litres,other,water_tank,,yes,Mo-Su 08:30-20:00,private
+POINT (36.796788152821044 -1.312261545220102),612008485,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Fr 05:00-20:00,private
+POINT (36.797169307996086 -1.312237925724305),771235541,private,drinking_water,,Water_tank+tap,,operational,ksh 3 per 20 litres,other,water_tank,yes,,Mo-Su 05:00-20:00,private
+POINT (36.796140647164243 -1.31187932247735),771235573,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Su 08:30-20:00,private
+POINT (36.796003923578006 -1.311768050385025),771235555,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Su 08:30-20:00,private
+POINT (36.796459189764001 -1.31153544769014),771212312,private,drinking_water,,,,operational,Ksh 3 per 20 litres,,,yes,,Mo-Su 05:00-20:00,private
+POINT (36.79664460203864 -1.311549457737237),781274694,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Fr 05:00-20:00,private
+POINT (36.797346186275533 -1.312659304680549),612008981,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Fr 05:00-20:00,private
+POINT (36.79745110950072 -1.31255198417306),771235570,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Su 05:00-20:00,private
+POINT (36.798602929358019 -1.312656251210107),771216936,yes,drinking_water,,,,operational,ksh 3 per 20 litres,,,,yes,Mo-Su 08:00-20:00,private
+POINT (36.797899907816664 -1.312010262511868),771235534,private,drinking_water,water_tap,,,operational,ksh 3 per 20 litres,other,piped_tap,yes,,Mo-Su 08:30-20:00,private
+POINT (36.797074715396676 -1.311360411902788),941480409,private,drinking_water,,,,operational,Ksh 3 per 20 litres,,,yes,,Mo-Su 05:00-20:00,private
+POINT (36.793921988075532 -1.310097441669656),612008492,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Su 05:00-20:00,private
+POINT (36.79872572905736 -1.312383863670072),771216935,private,drinking_water,,,,operational,ksh 3 per 20 litres,,,yes,,Mo-Su 05:00-20:00,private
+POINT (36.784056420130746 -1.30630251000444),772458372,yes,drinking_water,,,,operational,3/= per 20lit,,,,yes,07:00-18:00,private
+POINT (36.784783247027121 -1.306053741328289),941479921,yes,drinking_water,,,,operational,3/= per 20lit,,,,yes,06:00-18:00,ngo_cbo
+POINT (36.784728719289376 -1.306026349829954),612010914,yes,drinking_water,,,,,,,,,yes,,
+POINT (36.786196656295161 -1.307313480504506),612007437,private,drinking_water,,,,operational,5 shillings per gerican,,,yes,,08:00-21:00,private
+POINT (36.786337691794763 -1.306190519199121),772439546,yes,drinking_water,,,,operational,3/= per 20lit,,,,yes,06:00-18:00,private
+POINT (36.786721452084137 -1.30658477710425),769076573,yes,drinking_water,,,,operational,,,,,yes,06:00-20:00,private
+POINT (36.787516101784476 -1.305633618576721),941480313,yes,drinking_water,,Mizuka Youth Group (KWAHO),,operational,3/= per 20lit,public_community,water_tank,,yes,06:00 - 20:00,ngo_cbo
+POINT (36.787571078679868 -1.305644575177803),773549078,yes,drinking_water,,public water tank,,operational,shs 3 per 20lit,,,,yes,06:00-18:00,public
+POINT (36.78825020503465 -1.306892459881995),612009274,yes,drinking_water,,,,,,,,,yes,,
+POINT (36.788163697272793 -1.306846298486906),612009273,yes,drinking_water,,,,,,,,,yes,,
+POINT (36.788698374529901 -1.307287615758394),612009271,yes,drinking_water,,,,,,,,,yes,,
+POINT (36.789916849381278 -1.306993314444534),612009277,yes,drinking_water,,,,,,,,,yes,,
+POINT (36.804814599884651 -1.315076304981012),795819293,private,drinking_water,water_tap,,,operational,ksh 3 per 20 litres,other,piped_tap,yes,,Mo-Su 05:00-20:00,private
+POINT (36.805254774373864 -1.314501803988214),795819303,private,drinking_water,water_tap,,,operational,ksh 3 per 20 litres,other,piped_tap,yes,,Mo-Su 05:00-20:00,private
+POINT (36.805273549163303 -1.314367810615871),795819288,private,drinking_water,,Water tank,,operational,ksh 3 per 20 litres,other,water_tank,yes,,Mo-Su 05:00-20:00,private
+POINT (36.805471627683453 -1.313707902132971),795819296,yes,drinking_water,,,,bad,KShs 3,,,,yes,Mo-Su 05:00-20:00,private
+POINT (36.805716149103795 -1.313068918725752),2117408694,,drinking_water,,Water tap,,operational,ksh 3,other,piped_tap,,yes,Mo-Su 05:00-20:00,private
+POINT (36.805812179007667 -1.312750190328467),795764957,private,drinking_water,,Water_tank+tap,,operational,ksh 3 per 20 litres,other,water_tank,yes,,Mo-Su 05:00-20:00,private

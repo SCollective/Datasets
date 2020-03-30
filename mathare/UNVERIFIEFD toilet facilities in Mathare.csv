@@ -1,0 +1,145 @@
+WKT,osm_id,amenity,name,operator,operational_status,watsan:cost,watsan:location,watsan:type,opening_hours,operator:type
+POINT (36.843551122745751 -1.26430956336211),1101638862,toilets,,Sanitary toillet(no.105),,,,,,
+POINT (36.843372088509625 -1.263648115141418),1101638928,toilets,,Sanitary toillet(no.112),,,,,,
+POINT (36.844565051206942 -1.263728045756802),1101638807,toilets,,Sanitary toillet(no.113),,,,,,
+POINT (36.845484656563286 -1.263885392309337),1101638828,toilets,,Sanitary toillet(no.110),,,,,,
+POINT (36.849203592008017 -1.26387425590982),1038189711,toilets,,Public Toilet,,,,,,
+POINT (36.849404365474015 -1.263782919469991),1038189721,toilets,,Public Toilet,,,,,,
+POINT (36.849269618181403 -1.263547977344509),1110245188,toilets,,Muratas toilet,,,,,,
+POINT (36.849295220166994 -1.263484930944839),1038189737,toilets,,Public Toilet,,,,,,
+POINT (36.849723626725996 -1.264541092651952),1038091954,toilets,Mathare 123 CDF,Public Toilet,operational,750 per month,church,trench_toilet,24/7,cdf
+POINT (36.850413353201141 -1.26455869534343),1038091940,toilets,124 Mathare,,non_operationa,500 per month,plot,trench_toilet,5:00-12:00,cdf
+POINT (36.850052949109148 -1.263513490425218),1110245187,toilets,,CDF Toilet,,,,,,
+POINT (36.850851192070621 -1.263695893891576),1204168035,toilets,Choo ya mzee,,operational,150 ksh per month,by_the_river,hanging_toilet,24/7,private
+POINT (36.851055289303176 -1.264424160484095),1204168045,toilets,Wananchi,,operational,360 ksh per month,plot,asian_style,5:30-10:00,private
+POINT (36.852552960544863 -1.264645990321862),1038193538,toilets,Heshima Self Help Group,,operational,free,public_community,asian_style,05:30-22:00,ngo_self_help
+POINT (36.853452623301905 -1.2643449483674),1207178854,toilets,Juja Road self help group,,operational,5ksh,public_community,asian_style,05:00-22:00,private
+POINT (36.852586557536476 -1.263624046146632),1038189724,toilets,,Private Toilet,,,,,,
+POINT (36.852784456393572 -1.263486008661086),1038189722,toilets,,Public Toilet,,,,,,
+POINT (36.854963409946734 -1.265080848596564),1207178860,toilets,Mathare Association,,operational,5 ksh,public_community,asian_style,05:00-22:30,ngo_cbo
+POINT (36.857937821683983 -1.265210713321218),1038193578,toilets,Mathare Association,,operational,5,public_community,asian_style,04:00-24:00,ngo_cbo
+POINT (36.856434670719068 -1.264572436219853),1207178822,toilets,Manoki,,operational,5 ksh,public_community,asian_style,06:30-21:00,ngo_cbo
+POINT (36.857654493043377 -1.264626591438017),1038193554,toilets,Pentagon public toilet,,operational,5 Ksh,public_community,asian_style,06:00-21:00,cdf
+POINT (36.856809447855596 -1.263813185330946),1038064482,toilets,Mcedo Community Toilet,MCEDO Community Toilets,operational,yes,public_community,asian_style,24/7,ngo_cbo
+POINT (36.859862192685625 -1.264087823305269),1038103814,toilets,,Muoroto Toilet,non_operationa,5,public_community,asian_style,,
+POINT (36.859901449063543 -1.263833212888584),1207074910,toilets,Out Reach OCC Primary School & MCO Secondary,,operational,,school,pit_latrine,07:00-18:00,private
+POINT (36.860911155442885 -1.264009329655661),1207074888,toilets,Outreach Community church,,operational,,church,asian_style,06:00-18:00,private
+POINT (36.849334027387272 -1.262750646838267),1110245192,toilets,,,,,,,,
+POINT (36.850099571672395 -1.262993582099521),1110245196,toilets,,Toilet,,,,,,
+POINT (36.850131282201929 -1.262718944009514),1110245185,toilets,,Toilet,,,,,,
+POINT (36.85224789267437 -1.262867040223201),1038189736,toilets,,Public Toilet,,,,,,
+POINT (36.85563211584423 -1.261934545851666),1204137038,toilets,,,operational,5ksh,by_the_river,hanging_toilet,24/7,private
+POINT (36.855475629321738 -1.261548723176585),1204137108,toilets,,,operational,2ksh,by_the_river,hanging_toilet,24/7,private
+POINT (36.855585672944045 -1.261379791023598),1204137122,toilets,,,operational,5ksh,public_community,asian_style,24/7,ngo_cbo
+POINT (36.856691588890328 -1.262591234593478),1204137082,toilets,,,operational,2ksh,by_the_river,hanging_toilet,24/7,private
+POINT (36.857040584378204 -1.262538516288419),1204137139,toilets,,,operational,,by_the_river,hanging_toilet,24/7,private
+POINT (36.857179194426543 -1.262499987918279),1204137029,toilets,,,operational,5ksh,by_the_river,hanging_toilet,05:00-12:00,private
+POINT (36.857603828061343 -1.262383684326625),1204137068,toilets,,,operational,,by_the_river,hanging_toilet,5:30-8:00,private
+POINT (36.858386530168396 -1.263293007636134),1102975991,toilets,141 Community Toilet/Rotary International,Community Public Toilet,operational,5Ksh Daily 50Ksh Monthly,public_community,asian_style,"05:00-06:00,19:00-22:00",ngo_cbo
+POINT (36.858069424873108 -1.262337881366334),1204137093,toilets,,,,,by_the_river,hanging_toilet,24/7,
+POINT (36.858510497677607 -1.262465321365623),1038202696,toilets,Mathare 4b,Private toilets,operational,NONE,by_the_river,asian_style,24/7,other
+POINT (36.856796152789393 -1.261704094046565),1038202663,toilets,MYTO,,operational,250 monthly,,,06:00-22:30,ngo_cbo
+POINT (36.857625297796638 -1.261581234307369),1038202755,toilets,,,operational,,school,pit_latrine,06:00-22:30,private
+POINT (36.857871975173659 -1.261809081640743),1205477307,toilets,M-area,,operational,free,public_community,asian_style,05:00-22:00,ngo_national
+POINT (36.858949863683065 -1.261305159111999),1207138030,toilets,Public Toilet,,operational,250 per month,,,06:00-22:00,private
+POINT (36.858992803153654 -1.261302015770316),1205477317,toilets,K-area,,operational,free,public_community,asian_style,07:00-20:00,community
+POINT (36.858591615547766 -1.260754535399718),1207138003,toilets,public Toilet,,operational,,public_community,pit_latrine,06:00-21:00,private
+POINT (36.85860895303275 -1.26074178241069),1205477312,toilets,Baghdad,,operational,50 ksh per month,public_community,pit_latrine,06:00-22:00,private
+POINT (36.859677229568625 -1.263369076445725),1038103778,toilets,Sokomoko,Sokomoko Toilet,non_operationa,0,public_community,asian_style,,cdf
+POINT (36.859478881553891 -1.262376589358313),1204089855,toilets,,,operational,none,public_community,hanging_toilet,5:00-9:00,private
+POINT (36.859787812180095 -1.26223936009409),1038202827,toilets,,,operational,5 ksh,public_community,asian_style,4:30-11:30,private
+POINT (36.860224213745127 -1.26246981185175),1207163959,toilets,Bridge international,,operational,,school,pit_latrine,07:00-16:30,ngo_national
+POINT (36.859945286849403 -1.2621870010208),1038202757,toilets,community,public toilets,operational,none,by_the_river,hanging_toilet,6:00-10:00,community
+POINT (36.86053017993089 -1.263412634145611),1207074884,toilets,,,operational,3 Ksh,plot,asian_style,05:30-22:30,ngo_cbo
+POINT (36.860173908089216 -1.261901316247357),1038202731,toilets,Success care center,,operational,3000 per month,by_the_river,hanging_toilet,6:30-6:30,private
+POINT (36.860367225538354 -1.261942628728327),1207163975,toilets,,,operational,2/use,by_the_river,trench_toilet,05:00-23:00,private
+POINT (36.860108061578892 -1.261449124157344),1207138004,toilets,Public Toilet,,operational,2ksh,public_community,trench_toilet,06:30-22:00,private
+POINT (36.861452929390744 -1.261251901922278),1205552278,toilets,,,operational,,by_the_river,hanging_toilet,,private
+POINT (36.862237607791421 -1.263072524828323),1205523399,toilets,Umande Trust,,operational,3 shillings,church,english_style,06:00-20:30,faith_based_organization
+POINT (36.86229168637152 -1.263016034525471),1112885070,toilets,,Legio Maria Public toilet,operational,3 shillings,church,asian_style,06:00-20:00,faith_based_organization
+POINT (36.861887264830614 -1.262560878908584),1205523397,toilets,Thayu Private Toilet,,operational,3 shillings,public_community,pit_latrine,06:30-19:00,private
+POINT (36.861931911100235 -1.262406136757841),1205552300,toilets,Joseph Nguutu,,operational,yes,public_community,trench_toilet,05:30-22:00,private
+POINT (36.862757373014816 -1.262232534554573),1235775792,toilets,,,operational,,plot,asian_style,24/7,
+POINT (36.862664666877492 -1.261796957325128),1205552277,toilets,,,operational,,plot,pit_latrine,06:00-22:00,private
+POINT (36.862649844675303 -1.261614912964525),1205552275,toilets,,,non_operationa,,public_community,,,LATIF
+POINT (36.862383045035919 -1.260718791106414),1205552280,toilets,,,operational,2ksh,public_community,trench_toilet,,private
+POINT (36.859301554116804 -1.260509893543341),1207138001,toilets,public Toilet,,operational,200 per month,public_community,asian_style,06:00-22:30,private
+POINT (36.859325179808778 -1.260502529140548),1205477308,toilets,High t,,operational,2 ksh,,,06:00-20:00,private
+POINT (36.859637613864592 -1.260550128328928),1207138026,toilets,Public Toilet,,operational,free,public_community,asian_style,06:00-21:00,private
+POINT (36.859727804719114 -1.260484926421615),1205477309,toilets,I-area,,operational,membership fee 550 ksh,public_community,asian_style,6:00-8:00,private
+POINT (36.859859318076715 -1.260330992435581),1038202743,toilets,I-area,Public toilets,operational,400 per month,public_community,asian_style,5:00-10:00,other
+POINT (36.85992866801665 -1.260101348776741),1207138033,toilets,public Toilet,,operational,300/month,,,06:30-22:00,private
+POINT (36.860270566813782 -1.259813508338853),1207138010,toilets,public Toilet,,operational,300/month,public_community,asian_style,06:00-21:00,private
+POINT (36.8606718442512 -1.260321203167785),1207138050,toilets,public Toilet,,operational,300/month,plot,asian_style,07:00-22:00,private
+POINT (36.86319476272665 -1.260520580908319),1103092238,toilets,Mburu,Public toilets,operational,3 ksh,public_community,english_style,06:30-22:00,private
+POINT (36.862749288177255 -1.260134488594234),1205552269,toilets,,,operational,,public_community,pit_latrine,,private
+POINT (36.863216861282638 -1.260013424977089),1205552279,toilets,,,operational,,public_community,pit_latrine,,private
+POINT (36.862067826202725 -1.259844043675432),1207045070,toilets,Veronicahs Toilet,,operational,,by_the_river,pit_latrine,06:00-21:00,private
+POINT (36.862848013026976 -1.259344790877553),1205552263,toilets,,,operational,3ksh,public_community,pit_latrine,,private
+POINT (36.863833105567544 -1.260144726911734),1205552276,toilets,,,operational,,public_community,pit_latrine,24/7,private
+POINT (36.862660714290243 -1.259122152299156),1205552252,toilets,,,operational,,plot,pit_latrine,,private
+POINT (36.862865799669606 -1.25889897484266),1244295592,toilets,,,operational,no,by_the_river,hanging_toilet,06:00-21:00,private
+POINT (36.863031089681883 -1.25879704066605),1207045046,toilets,Mabatini Toilet,,operational,3 ksh,by_the_river,pit_latrine,06:00-23:00,private
+POINT (36.863559388900477 -1.258675797367082),1205552293,toilets,,,operational,,by_the_river,hanging_toilet,,private
+POINT (36.866361413934698 -1.260678915562556),1205506593,toilets,Ngei PAG primary School and Secondary,,operational,,church,asian_style,08:00-17:00,faith_based_organization
+POINT (36.866740413153067 -1.260561174932902),1205506589,toilets,Lions Clinic,,operational,,clinic,asian_style,08:00-17:00,other
+POINT (36.868545398053456 -1.260428436062569),1205506595,toilets,Huruma community toilet,,operational,5 shillings,public_community,asian_style,06:00-20:00,ngo_cbo
+POINT (36.868790009305322 -1.260113652719869),1205506587,toilets,Kibichoi Plot,,operational,,plot,asian_style,24/7,private
+POINT (36.867858905513323 -1.258834311753116),1205506586,toilets,Eden Annex Primary School,,operational,,school,asian_style,08:00-18:00,
+POINT (36.867915050218585 -1.258669241247785),1204150708,toilets,Joyrinah Educational Centre,,operational,,school,asian_style,Mo-Fr 08:30-20:00,private
+POINT (36.868109804972185 -1.258689538274573),1204150718,toilets,Eart Busaa club,,operational,,plot,asian_style,24/7,private
+POINT (36.867869864959786 -1.258601524617432),1204150715,toilets,Sakati,,operational,,plot,asian_style,24/7,private
+POINT (36.868526982590126 -1.257943936770851),1204150710,toilets,Ushindi Educational Center,,operational,,school,asian_style,Mo-Fr 08:30-20:00,private
+POINT (36.86427822079083 -1.256788891669504),1204089842,toilets,,,operational,5 ksh,public_community,asian_style,24/7,cdf
+POINT (36.862932903821331 -1.255378695954718),1225090804,toilets,St Sylvia Education Centre,,operational,,school,pit_latrine,Mo-Fr 07:00-06:00,ngo_cbo
+POINT (36.862397328248932 -1.254533314602667),1225090798,toilets,Real Prepatory School,,operational,,school,asian_style,Mo-Fr 07:30-16:00,private
+POINT (36.862726381137506 -1.253928354402309),1225090807,toilets,Lins Day Care Community Centre,,operational,,school,asian_style,Mo-Fr 08:30-17:00,ngo_cbo
+POINT (36.862728447262668 -1.253625874249708),1225090838,toilets,North Ridge Community Centre,,operational,,school,asian_style,06:00-17:00,ngo_cbo
+POINT (36.86316466916464 -1.253770917438893),1225090772,toilets,St Sylvia Education Centre,,operational,,school,asian_style,07:00-18:00,ngo_cbo
+POINT (36.865819011166145 -1.256600919504136),1204053956,toilets,Star Of Hope Academy,,operational,,school,asian_style,24/7,faith_based_organization
+POINT (36.86539410803676 -1.256143517518219),1204053963,toilets,Mathare North Dispensary,,operational,,clinic,asian_style,Mo-Fr 08:30-20:00,local_authority
+POINT (36.868124627174367 -1.257771861038212),1204150737,toilets,Furaha Community Center,,operational,,public_community,asian_style,24/7,ngo_cbo
+POINT (36.868599296970501 -1.257374542079856),1204150703,toilets,Plot 10,,operational,,plot,asian_style,24/7,private
+POINT (36.868543870917463 -1.256853554809747),1204150755,toilets,Huruma Community toilet,,operational,,public_community,asian_style,24/7,private
+POINT (36.869641791857717 -1.256975875912326),1204053964,toilets,WA MICHAEL,,operational,,plot,asian_style,24/7,private
+POINT (36.868533630123231 -1.25614773858541),1204053957,toilets,AIC Upendo Educational Center,,operational,,school,pit_latrine,Mo-Fr 08:30-20:00,faith_based_organization
+POINT (36.868408315141096 -1.2558428338208),1204053977,toilets,One Love Self Help Group,,operational,,public_community,asian_style,24/7,ngo_self_help
+POINT (36.869179608644039 -1.256357085547527),1205506594,toilets,Little Bees Toilet,,operational,2 shillings,public_community,pit_latrine,24/7,ngo_cbo
+POINT (36.869597684577265 -1.256301583008373),1225090179,toilets,Little Beez,,operational,free,,,06:30-18:30,ngo_self_help
+POINT (36.869621220437715 -1.256288919807523),1225090108,toilets,Kwa karis,,operational,free,plot,asian_style,,private
+POINT (36.86940382813895 -1.255518350449021),1225090161,toilets,Hands of Care and Hope Madoya,,operational,free,by_the_river,asian_style,06:00-17:00,private
+POINT (36.870038128561077 -1.255721320954772),1225090252,toilets,Ngei 1,,operational,free,public_community,pit_latrine,,
+POINT (36.869867628320151 -1.255565949728328),1225090111,toilets,Madoya Tumaini Youth Group,,operational,5 ksh,public_community,asian_style,05:30-20:30,ngo_self_help
+POINT (36.865594881502759 -1.254093874257245),1204053950,toilets,Jangwani CDF Toilet,,operational,,public_community,asian_style,24/7,cdf
+POINT (36.867076113574747 -1.253414281818148),1225090790,toilets,Nyanya Toilet,,operational,,,,24/7,private
+POINT (36.868875708583424 -1.254137252492056),1225090776,toilets,Missions Of Hope International,,operational,,school,asian_style,Mo-Fr 07:00-16:00,ngo_national
+POINT (36.869634874830034 -1.254289300833221),1225025684,toilets,Mathare North Primary School,,operational,,school,asian_style,Mo-Fr 08:00-17:00,local_authority
+POINT (36.867761348473472 -1.253091594346087),1204053954,toilets,ST Maurus Primary School,,operational,,church,asian_style,Mo-Fr 08:30-20:00,faith_based_organization
+POINT (36.870481177659194 -1.259009081710903),1225082554,toilets,Kingstone Toilet,,non_operational,,public_community,,,ngo_cbo
+POINT (36.871090684579471 -1.258746477720561),1225082551,toilets,CDF Toilet,,operational,Free,public_community,asian_style,,cdf
+POINT (36.874986318640588 -1.260101528396353),2313356240,toilets,,NCCK,,,,,,
+POINT (36.875106962383242 -1.259172984666849),1225096835,toilets,Kirinyaga maendeleo ya wanawake,,operational,No fee,plot,pit_latrine,24/7,ngo_cbo
+POINT (36.875900623936765 -1.259870717189718),1225096842,toilets,Muthaka Nyaga,,operational,5,church,english_style,06:00-22:00,ngo_cbo
+POINT (36.876938627247561 -1.25807308337277),1205481286,toilets,,,non_operationa,,public_community,english_style,,cdf
+POINT (36.870775196251692 -1.256791047107533),1225090283,toilets,,,operational,free,plot,pit_latrine,24/7,private
+POINT (36.871266574712102 -1.257142563103092),1225090242,toilets,Maxdais ED. Centre school,,operational,free,school,pit_latrine,06:00-17:00,private
+POINT (36.871188870440029 -1.257019703148866),1225090063,toilets,,,operational,free,plot,pit_latrine,24/7,private
+POINT (36.8720114577457 -1.256600201024734),1204150749,toilets,Ngei 1 Developement Youth Group,,operational,2 shillings,public_community,asian_style,24/7,ngo_cbo
+POINT (36.870454318032202 -1.256553499863537),1225090222,toilets,,,,free,plot,pit_latrine,,
+POINT (36.870732616107226 -1.256307779893866),1225090085,toilets,,,operational,free,plot,pit_latrine,24/7,private
+POINT (36.871029599140158 -1.253966793089038),1225025694,toilets,St Benedict Parish,,operational,,church,asian_style,24/7,faith_based_organization
+POINT (36.871141978382198 -1.253091324915944),1204053960,toilets,Mathare North Market,,operational,,public_community,asian_style,Mo-Fr 08:30-20:00,local_authority
+POINT (36.873048113583572 -1.254531608212753),1205481285,toilets,Mary Njeri,,operational,5 shillings,by_the_river,pit_latrine,08:00-20:00,private
+POINT (36.873519729107734 -1.254487331884513),1123209317,toilets,Ghetto Public Toilet,,non_operationa,,church,asian_style,24/7,cdf
+POINT (36.875579296559636 -1.255056098534872),1225010954,toilets,,,operational,Kshs 1,public_community,pit_latrine,07:00-17:00,ngo_cbo
+POINT (36.874481645113974 -1.253440057297769),1205501877,toilets,Kiamaiko,,non_operational,,by_the_river,asian_style,,cdf
+POINT (36.874452988856405 -1.253065818863032),1038172404,toilets,,CDF public toilets,,,,,,
+POINT (36.876810527488054 -1.254554240331557),1225010964,toilets,,,operational,Kshs 3,public_community,pit_latrine,07:00-18:00,ngo_cbo
+POINT (36.875672362023067 -1.253786634192649),1225010961,toilets,,,operational,,plot,pit_latrine,24/7,private
+POINT (36.875846275862081 -1.253154102136709),1225010944,toilets,Kirom Huruma,,operational,,plot,pit_latrine,24/7,private
+POINT (36.871455310753298 -1.252264713130645),1204053968,toilets,Ultimate Transformers Youth Group,,operational,,public_community,asian_style,Mo-Fr 08:30-20:00,ngo_cbo
+POINT (36.871974267492931 -1.251969597212802),1225025779,toilets,The Grace Jonior Academy,,operational,,school,pit_latrine,06:00-17:00,ngo_cbo
+POINT (36.873259127843816 -1.250436089588343),1224991172,toilets,Mathare North Adventist Centre,,operational,,school,asian_style,07:00-16:30,private
+POINT (36.875436823755571 -1.250460428135087),1225025761,toilets,Baby Liz Junior Care,,operational,,school,asian_style,Mo-Fr 07:00-17:00,private
+POINT (36.874474728086284 -1.250193063349014),1225025733,toilets,Ruaraka Chief Camp,Goverment Of Kenya,operational,,church,pit_latrine,24/7,government
+POINT (36.876498183263763 -1.250490694150477),1111586981,toilets,,,,,,,,

@@ -1,0 +1,24 @@
+WKT,osm_id,amenity,name,operator,service,shop,operational_status,medical_service:malaria,medical_service:outpatient,medical_service:pregnancy_test,medical_service:vct_hiv_counselling_test,opening_hours,operational_status:electricity,operator:type
+POINT (36.775205678962429 -1.315007422345891),612007856,community_centre,Unity Weep Womens Center,,,,,,,,,,,
+POINT (36.780938367779562 -1.314853850883958),612008796,community_cinema,,,,video,,,,,,,,
+POINT (36.772560679439863 -1.311052729673295),2054071457,community_centre,silver women community based organisation,NGO,,,,,,,,Mo-Fr 08:30-20:00,,
+POINT (36.790967249443007 -1.313275027938214),612007280,community_centre,ODM Lindi Ward Office,,,,,,,,,,,
+POINT (36.791112956182083 -1.313328194233382),1720269508,community_centre,Kibera Lindi Youth Organization,,"beautyshop,bio-centre,typing, public toilet",,,,,,,,,
+POINT (36.784518423681362 -1.311165079493533),612008714,community_centre,Pat zero waste group for yourth,,,,,,,,,,,
+POINT (36.784803459121015 -1.310897182192049),612008917,community_centre,Koinonua ndugu ndogo Rescue Centre,,,,,,,,,,,
+POINT (36.785914854790526 -1.31230968229071),612007836,community_centre,KAMSHEG,,,,,,,,,,,
+POINT (36.78747235383014 -1.310948103337382),612008408,community_centre,gogo boys youth group,,,,,,,,,,,
+POINT (36.782867769346794 -1.307592514397816),612008409,community_centre,rehma taallah development group,,,,,,,,,,,
+POINT (36.791730817434512 -1.312736988559662),1720269510,community_centre,Mashimoni/Lindi Usafi Group,,"Public Toilet,Public bathrooms,Water Tank",,,,,,,,,
+POINT (36.793039123814296 -1.311675637965596),1015701526,community_centre,community health workers,,,,operational,,,,,,sometimes,ngo_cbo
+POINT (36.792087718096887 -1.310242481659814),612010734,community_cinema,husler video show,,,video,,,,,,08:00-21:00,,
+POINT (36.790343908467349 -1.308908293049797),612008416,community_centre,Kicoshep Centre,,,,,,,,,,,
+POINT (36.791911109312025 -1.309378977198268),612009255,community_centre,kicoshep centre,,,,,,,,,,,
+POINT (36.797605529898057 -1.317652083091136),3064829667,community_centre,power of hope office,,,,,,,,,,,
+POINT (36.795837286092798 -1.314166102080671),612008720,community_centre,Recimianto Youth Centre,,,,,,,,,,,
+POINT (36.795972302880003 -1.314303059124374),612007632,community_centre,Foundation Of People Living with Hiv Aids In Kenya(FOPHAK),,,,operational,no,yes,,yes,Mo-Fr 08:00-17:00,never,ngo_national
+POINT (36.796646668163795 -1.313388904393403),612008473,community_centre,Kibera Santiago Resource Centre,,,,,,,,,,,
+POINT (36.799578230261986 -1.315150576086111),1768443463,community_centre,soweto resource center,,,,,,,,,,often,
+POINT (36.794029157088922 -1.312293696472588),612007650,community_centre,Ushirika Hall,,,,,,,,,,,
+POINT (36.796598159138448 -1.312109051285096),612007699,community_centre,Ghetto Development Center,,,,,,,,,,,
+POINT (36.805255942183742 -1.314877829586537),4965328918,community_centre,UN Habitat setlite office,,,,operational,,,,,,,ngo_cbo
