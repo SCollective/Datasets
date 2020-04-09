@@ -1,0 +1,25 @@
+METADATA
+***********
+TITLE
+building_extraction
+
+REFERENCE DATE 
+13-06-2016
+
+FORMAT 
+shapefile
+
+CRS
+WGS 84 
+
+
+DESCRIPTION
+
+Buildings in Kayole Sowto  digitized from 10cm georeferenced aerial imagery.
+
+
+
+
+
+
+

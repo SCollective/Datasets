@@ -1,0 +1,40 @@
+METADATA
+***********
+
+
+TITLE 
+informal_settlements
+
+
+
+REFERENCE DATE 
+Unknown
+
+SOURCE Unverified
+
+
+
+FORMAT 
+ESRI shapefile
+
+
+
+CRS 
+WGS 84 
+
+
+
+
+DESCRIPTION 
+
+Polygons showing locations of informal settlements within Nairobi County
+
+
+
+
+
+
+
+. The polygon bounds DO NOT accurately
+
+depict boundaries of the informal settlements. 

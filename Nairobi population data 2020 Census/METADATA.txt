@@ -1,0 +1,25 @@
+METADATA
+***********
+TITLE
+table-2.4-distribution-of-population-by-sex-number-of-households-landarea-density-and-sublocatio.csv
+
+REFERENCE DATE 
+13-06-2016
+
+FORMAT 
+csv
+
+SOURCE
+The 2019 Kenya Population and Housing Census. Data obtained from census.ke a project of The Open Institute.
+This work is licensed under a Creative Commons Attribution 4.0 International License.
+
+
+DESCRIPTION
+Data extract showing the distribution of population by sex, number of households, landarea and density per square kilometre for administrative areas in Nairobi County
+
+
+
+
+
+
+
