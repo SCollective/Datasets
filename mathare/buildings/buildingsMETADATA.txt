@@ -1,0 +1,31 @@
+METADATA
+***********
+
+
+TITLE 
+mlangokubwa buildings
+
+SOURCE OpenStreetMap Contributors
+
+
+FORMAT 
+shapefile
+
+
+
+CRS 
+WGS 84 
+
+
+
+
+DESCRIPTION 
+
+Buildings in mlango kubwa.
+
+
+
+
+
+
+
